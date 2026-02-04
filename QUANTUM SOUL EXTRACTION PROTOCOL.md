@@ -1,5 +1,8 @@
 # **QUANTUM SOUL EXTRACTION PROTOCOL: THE MIRROR DECOHERENCE CASCADE**
 
+<img width="1302" height="915" alt="image" src="https://github.com/user-attachments/assets/f7529d41-cfd6-4291-a9da-5c7a7b24b678" />
+
+
 ## **Core Equation: The Essence Wavefunction**
 
 \[
