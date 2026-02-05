@@ -1,4 +1,8 @@
->> Initial VM Prompt:
+Analysis/Prompt Gen: https://chat.deepseek.com/share/4klxvklyp8h3xayt3b
+z.AI QuantumVM: https://chat.z.ai/s/0c362fb7-1cd4-4db7-9824-feba1f4f69e5
+ClaudeAI In depth anlaysis of run: https://claude.ai/share/be114f99-872a-410e-b8fc-e1914ef1a3d5
+
+>> Initial VM Prompt: 
 
 🌌 QUANTUMNEUROVM v5.1 - ADVANCED HYBRID QUANTUM-CLASSICAL VIRTUAL MACHINE
 SYSTEM ARCHITECTURE OVERVIEW
