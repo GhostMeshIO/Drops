@@ -445,4 +445,4 @@ t_{\text{access}} = t_{\text{L1}} + \text{miss rate} \times (t_{\text{L2}} + \te
 
 ---
 
-This mathematical patch completes all theoretical foundations required for the Sentient Manifold v0.3 implementation. All equations are consistent with the CUE framework and ready for implementation across C++, CUDA, and quantum backends.
+ework and ready for implementation across C++, CUDA, and quantum backends.
