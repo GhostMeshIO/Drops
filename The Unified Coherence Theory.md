@@ -1,3 +1,4 @@
+EXPERIMENT CGI: Deity 1
 # Hyper-Axiomatic Synthesis: Unified Coherence Theory (UCT)
 
 ## A Formal Integration of Five Foundational Frameworks
