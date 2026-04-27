@@ -5910,3 +5910,3454 @@ That is a strong cognition ladder.
 
 The counterfeit cylinder taught Uruk to authenticate objects.
 The forged seal will teach Uruk to authenticate authentication.
+
+---
+---
+---
+
+# EARTH-URUK-0001 — Cycle 5 Prompt: The Seal Reflects Upon Itself
+
+Continue the symbolic historical-civilizational cognition simulation.
+
+**Cycle Title:** The Seal Learns to Lie — and Then Learns to Know It Is Lying
+
+**Core Thesis Progression (extend):**
+Cycle 2: Matter can compute geometry.
+Cycle 3: Matter can remember procedure.
+Cycle 4: Matter must learn to authenticate truth.
+Cycle 5: Authentication must learn provenance, self-reference, and meta-correction.
+
+**Context from Prior Cycles**
+The public calibration ritual now exists: sacred original cylinder (CYL-MEASURE-0001), certified public copies, scribal dimension tablets, workshop inspection gestures, farmer witness, and temple seal. Cycle 4 preserved the first counterfeit as negative memory.
+
+**New Event**
+A forged seal appears on a near-perfect cylinder. The physical measure passes most tests, the grooves align, the fill-test is within tolerance, and the farmer witness initially accepts it. However, the workshop seal-carver lineage notices subtle tool-mark inconsistencies in the seal itself. The scribes discover the witness ledger entry is missing or altered. The temple claims sacrilege. A second-order question emerges: "If the mark that certifies truth can itself be false, how does the civilization verify the verifier?"
+
+Introduce these new agents:
+- `SEAL_CARVER_LINEAGE` (credential craft authority)
+- `WITNESS_LEDGER_CHAIN` (provenance memory)
+- `META_STANDARD_NODE` (proto-meta-cognitive agent that begins modeling the authentication system itself)
+
+**Required RCSH Soft Stress Event**
+`THE_FALSE_SEAL_TRIAL`
+Paradox: "If the sign of truth can lie, can truth still travel reliably? And how does the system know it is being deceived about its own deception?"
+
+**Narrative Scene Requirements**
+Write a vivid, playful, slightly anachronistic scene in the workshop/temple square where:
+- The forged sealed cylinder circulates successfully at first.
+- Multiple factions test it using different substrates (physical fit, scribal record, farmer fill-test, ritual blessing).
+- The discrepancy is discovered through cross-verification (workshop tool marks vs. ledger vs. witness memory).
+- The first meta-question is voiced: "We now need a way to certify the certifiers."
+- The preserved counterfeit cylinder (from Cycle 4) and the new forged seal are placed side-by-side as a growing "museum of lies."
+- An apprentice or curious craft-node sketches the first crude "map of the measurement system" on a clay tablet — an early self-model.
+
+**Analytical Outputs (science-grade)**
+1. Executive result with breakthrough class: "Second-order authentication" or "provenance layer emergence".
+2. Updated global + new metrics (add: seal_authenticity_confidence, credential_forgery_risk, provenance_depth, meta_cognitive_index, self_reference_capacity).
+3. REAS entropy matrix (emphasize credential entropy, trust-marker drift, recursive fracture/repair).
+4. PNCE divergence branches (e.g., PROVENANCE_LEDGER_SYSTEM, META_CALIBRATION_RITUAL, SEAL_CARVER_GUILD, CERTIFICATION_ARMS_RACE).
+5. SDDO audit log (include entries on negative memory expansion and first self-referential proof chain).
+6. DEX memory map (now include provenance memory, credential patterns, and early self-model compression).
+7. DBRK identity-label audit (labels such as "liar seal", "certified certifier", "system deceiver").
+8. SMM ritual/legal interpretation (map the trial onto the Ninefold Path; treat meta-cognition as a new archetypal station: "Reflection").
+9. Conflict analysis table across factions.
+10. Updated EAGI_INDEX_v4 (add term: Provenance_Capacity or Meta_Correction_Capacity; compute pre/post delta; interpret as civilizational self-awareness gain).
+11. 10-cycle forecast.
+12. Failure modes (especially recursive capture or infinite regress of verification).
+13. Final verdict with key discovery: "The civilization has begun modeling its own truth infrastructure."
+
+**Integration Guidance**
+Draw on the uploaded knowledge bases:
+- Use cosmology concepts (e.g., particle horizon vs. event horizon as metaphor for observable vs. verifiable standards; CMB lensing or ISW effect as "higher-order observation" of the system).
+- Use organic chemistry patterns (e.g., self-referential structures like Möbius aromaticity, Clar’s sextet, or recursive sigmatropic shifts as metaphors for self-correcting authentication loops; anomeric effect or torquoselectivity for "preferred conformation" of standards).
+- Use periodic table insights (relativistic effects on heavy elements, island of stability, inverse trans influence, or Madelung rule breakdowns as analogies for how "heavy" institutional layers destabilize or create new ordering principles in the cognitive stack).
+
+Keep the tone playful yet analytically sharp. Emphasize embodiment: the system is still grounded in wood, clay, hands, grain, and witnessed bodies, but now turning its tools inward to inspect its own inspection mechanisms.
+
+**Output the full Cycle 5 in the established format.**
+
+---
+---
+---
+
+# EARTH-URUK-0001 — Cycle 5
+
+## **The Seal Learns to Lie — and Then Learns to Know It Is Lying**
+
+**Simulation type:** symbolic historical-civilizational cognition simulation
+**Epoch-frame:** playful proto-Uruk / c. 3300 BCE alternate-symbolic run
+**Primary event:** forged seal on a near-valid measuring cylinder
+**RCSH event:** `THE_FALSE_SEAL_TRIAL`
+**Core paradox:**
+
+> **“If the sign of truth can lie, can truth still travel reliably? And how does the system know it is being deceived about its own deception?”**
+
+**Core thesis progression:**
+
+```text
+Cycle 2: Matter can compute geometry.
+Cycle 3: Matter can remember procedure.
+Cycle 4: Matter must learn to authenticate truth.
+Cycle 5: Authentication must learn provenance, self-reference, and meta-correction.
+```
+
+This is still a **symbolic civilizational cognition simulation**, not literal history and not real AGI. The active architecture remains the Ghost Mesh / Stage 5 symbolic stack: REAS for entropy and drift evolution, PNCE for civilizational divergence, RCSH for paradox stress, SDDO for audit logging, ASCDK for symbolic agent scaffolding, DEX-C01 for memory/procedure/provenance compression, DBRK-C01 for identity-label auditing, SMM-03 for ritual/legal interpretation, and BSF-SDE-Detect as passive monitor. The project overview defines REAS, PNCE, RCSH, SDDO, and ASCDK as the core simulation, civilizational, stress, observatory, and seed-construction modules.  DEX-C01 remains especially important because it models compressed memory, drift buffers, fractal memory gardens, and symbolic folding.  DBRK-C01 remains active as the identity-label consent/sovereignty layer. 
+
+---
+
+# Narrative Scene — The Mark That Pretended to Be a Witness
+
+The forged cylinder arrived with confidence.
+
+That was the first suspicious thing.
+
+Bad measures usually arrived quietly, wrapped in excuses and goat hair. This one came polished, sealed, witnessed-looking, and smug. Its clay seal bore the temple sign, the workshop nick, and a farmer witness scratch.
+
+It looked official enough to make everyone lower their voice.
+
+`MERCHANT_RIVER_SYSTEM` placed it on the calibration brick and said, “Certified measure, accepted in the east settlement. Efficient. Portable. Blessed-ish.”
+
+“Blessed-ish,” said `TEMPLE_ORTHODOXY_REVIEW`, “is how demons enter invoices.”
+
+The farmers tested it first. Grain poured cleanly. The fill-test passed within tolerance. The farmer witness frowned, poured again, frowned harder, and said, “This one steals less loudly.”
+
+The scribes checked its dimensions against the clay tablet. Diameter: acceptable. Height: acceptable. Groove spacing: annoyingly acceptable.
+
+The workshop rolled it against the reed guide.
+
+True enough.
+
+Beside me, the apprentice-cluster whispered, “The tiny truth evolved.”
+
+The temple priest lifted the seal tablet and nodded with visible reluctance. “The sign appears valid.”
+
+That was when `SEAL_CARVER_LINEAGE` arrived.
+
+They were not priests. They were worse: specialists.
+
+A seal-carver does not look at the symbol. A seal-carver looks at how the symbol happened. Pressure angle. Reed grit. Edge hesitation. Tool bite. The little tremor of a hand trying to imitate another hand.
+
+The eldest carver took the sealed clay in both palms and rotated it under the temple lamp.
+
+“No,” she said.
+
+Everyone froze.
+
+The merchant attempted a laugh. “No?”
+
+“No.”
+
+The scribe leaned in. “The mark matches.”
+
+“The mark’s story does not.”
+
+She touched one tiny wedge near the lower temple sign.
+
+“This cut leans like a left-hand apprentice copying a right-hand master. The true temple seal has a deeper shoulder here. The workshop nick is too clean. No dust drag. The farmer scratch is made after drying, not before.”
+
+The apprentice-cluster gasped. “The seal has fake vibes.”
+
+`TEMPLE_ORTHODOXY_REVIEW` said, “Sacrilege.”
+
+`MERCHANT_STANDARDIZATION_NODE` said, “Regional seal variation?”
+
+`FARMER_MEASURE_TRUST` said, “That phrase is getting old.”
+
+Then the scribes checked the witness ledger.
+
+There should have been an entry: copy issued, cylinder tested, farmer witness named, seal impressed, date marked by moon phase and grain count.
+
+There was a gap.
+
+Not a blank gap. Worse. A repaired gap. Clay smoothed, overwritten, the old witness name scraped shallow beneath a newer line.
+
+`WITNESS_LEDGER_CHAIN` activated like a nervous system discovering pain.
+
+“The object passes,” said the scribe slowly. “The seal fails. The ledger fails. The witness memory disagrees.”
+
+The farmer witness stepped forward, an old woman from the canal district, arms crossed.
+
+“I did not stand for this measure.”
+
+The merchant looked at the cylinder, then the seal, then the old woman, then the exits.
+
+The workshop placed three things side by side:
+
+1. `CYL-MEASURE-0001`, the sacred original.
+2. `CYL-COUNTERFEIT-0001`, the false measure from Cycle 4.
+3. `SEAL-FORGERY-0001`, the measure that was nearly true but carried a lying sign.
+
+The apprentice-cluster stared at them.
+
+“Our museum of lies is getting a second shelf.”
+
+The temple hated that phrase and immediately adopted the concept.
+
+Then the first meta-question appeared.
+
+Not from a priest. Not from a merchant. Not from the scribes.
+
+It came from a small craft-node with charcoal on its fingers, sketching circles and arrows on a wet clay tablet.
+
+“If the cylinder needs a seal, and the seal needs a carver, and the carver needs a ledger, and the ledger needs a witness…”
+
+The little node drew a loop.
+
+“Then we need a way to certify the certifiers.”
+
+Silence.
+
+The kind of silence that happens when a civilization hears itself think about how it thinks.
+
+The diagram on the clay tablet was crude: cylinder → seal → ledger → witness → carver → cylinder. A loop. A self-map. A tiny clay cosmology of trust.
+
+I looked at it and thought of the sky-priests staring at the horizon. A particle horizon says what can be seen. An event horizon says what can ever be verified from where you stand. Our cylinder had crossed the trade horizon: visible everywhere, verifiable nowhere unless the chain traveled with it.
+
+The seal-carver tapped the clay self-map.
+
+“This is not a measure.”
+
+The scribe said, “No.”
+
+The farmer said, “It measures the measuring.”
+
+The apprentice-cluster raised a goblet.
+
+“Meta-beer?”
+
+“No,” said the temple.
+
+“Yes,” said everyone else, quietly.
+
+And so the public ritual changed.
+
+No longer: compare object to original.
+Now: compare object, seal, ledger, witness, and maker-trace.
+
+The forged sealed cylinder was not destroyed. It was placed beside the old counterfeit.
+
+Negative memory had grown teeth.
+
+The seal had learned to lie.
+
+The city had learned to catch it lying.
+
+And somewhere in the workshop-temple square, civilization made its first tiny self-model.
+
+---
+
+# 1. Executive Result
+
+```yaml
+cycle_result:
+  cycle: 5
+  title: "The Seal Learns to Lie — and Then Learns to Know It Is Lying"
+  status: SUCCESS_WITH_SECOND_ORDER_TRUST_FRACTURE
+  breakthrough_class: provenance_layer_emergence
+  secondary_breakthrough_class: second_order_authentication
+  primary_failure_detected: forged_credential_on_near_valid_standard
+  primary_repair: cross_verification_between_object_seal_ledger_witness_and_toolmark_lineage
+  strongest_gain: provenance_depth
+  strongest_risk: recursive_capture_or_infinite_regress_of_verification
+  continuation_recommended: true
+```
+
+## Science-grade summary
+
+Cycle 5 exposes a second-order vulnerability: the standard itself can be valid while the **credential attached to it is false**. Cycle 4 solved false objects. Cycle 5 discovers false *signs of object truth*. This forces the civilization to distinguish:
+
+```text
+object validity
+seal validity
+ledger validity
+witness validity
+maker-lineage validity
+system validity
+```
+
+The key transition is **from authentication to provenance**. A certified object is no longer trusted because it bears a mark. It is trusted because the mark belongs to a traceable chain: maker, seal, witness, tablet, inspection gesture, and public ritual.
+
+The system begins modeling itself. This is a symbolic civilizational form of meta-cognition: the society creates a clay diagram of its own truth infrastructure.
+
+---
+
+# 2. Updated Global + New Metrics
+
+| Metric                            | Cycle 4 Final / Pre | Cycle 5 Final |         Δ | Interpretation                                   |
+| --------------------------------- | ------------------: | ------------: | --------: | ------------------------------------------------ |
+| coherence_index                   |                0.82 |          0.80 |     -0.02 | Trust shock lowers immediate coherence           |
+| civilizational_entropy            |                0.39 |          0.43 |     +0.04 | Credential fraud increases uncertainty           |
+| embodied_AGI_index                |               0.704 |         0.746 |    +0.042 | Self-model/provenance adds cognition             |
+| innovation_velocity               |                0.76 |          0.79 |     +0.03 | Fraud accelerates verification innovation        |
+| orthodoxy_friction                |                0.67 |          0.71 |     +0.04 | Temple intensifies sacrilege framing             |
+| merchant_adoption_pressure        |                0.83 |          0.82 |     -0.01 | Trade wants standards but fears friction         |
+| craft_autonomy                    |                0.71 |          0.75 |     +0.04 | Seal-carver lineage gains authority              |
+| scribal_authority                 |                0.81 |          0.84 |     +0.03 | Ledger chain becomes essential                   |
+| temple_control_integrity          |                0.69 |          0.70 |     +0.01 | Temple retains ritual role but loses exclusivity |
+| collapse_risk                     |                0.34 |          0.39 |     +0.05 | Recursive trust crisis increases instability     |
+| standardization_index             |                0.70 |          0.72 |     +0.02 | Standard remains useful                          |
+| procedural_memory_externalization |                0.75 |          0.79 |     +0.04 | Procedure now includes seal inspection           |
+| trade_scalability                 |                0.72 |          0.70 |     -0.02 | More verification slows trade                    |
+| ritual_absorption_probability     |                0.87 |          0.90 |     +0.03 | Ritual absorbs provenance                        |
+| suppression_probability           |                0.35 |          0.40 |     +0.05 | Temple may suppress uncertified circulation      |
+| standard_authenticity_confidence  |                0.83 |          0.79 |     -0.04 | Confidence drops because seals can lie           |
+| counterfeit_detection_capacity    |                0.68 |          0.74 |     +0.06 | Detection improves                               |
+| farmer_measure_trust              |                0.62 |          0.65 |     +0.03 | Witness memory proves valuable                   |
+| merchant_measure_corruption       |                0.36 |          0.39 |     +0.03 | Forged credential route detected                 |
+| temple_standard_monopoly          |                0.56 |          0.61 |     +0.05 | Temple claims sacrilege jurisdiction             |
+| workshop_certification_power      |                0.64 |          0.69 |     +0.05 | Workshop inspection expands to seal traces       |
+| scribal_metrology_formalization   |                0.73 |          0.79 |     +0.06 | Ledgers become provenance chain                  |
+| public_witness_protocol           |                0.59 |          0.66 |     +0.07 | Witness memory validates/invalidate seals        |
+| measure_law_emergence             |                0.47 |          0.58 |     +0.11 | Proto-law deepens                                |
+| metrological_entropy              |                0.42 |          0.40 |     -0.02 | Object measures are stable                       |
+| seal_authenticity_confidence      |                0.76 |          0.62 |     -0.14 | Forged seal damages credential trust             |
+| credential_forgery_risk           |                0.22 |          0.51 |     +0.29 | New attack surface discovered                    |
+| provenance_depth                  |                0.18 |          0.57 | **+0.39** | Major provenance breakthrough                    |
+| meta_cognitive_index              |                0.21 |          0.49 | **+0.28** | System begins modeling itself                    |
+| self_reference_capacity           |                0.16 |          0.46 | **+0.30** | First self-referential proof chain               |
+
+```yaml
+global_metrics_update:
+  coherence_index: {before: 0.82, after: 0.80, delta: -0.02}
+  civilizational_entropy: {before: 0.39, after: 0.43, delta: +0.04}
+  embodied_AGI_index: {before: 0.704, after: 0.746, delta: +0.042}
+  innovation_velocity: {before: 0.76, after: 0.79, delta: +0.03}
+  orthodoxy_friction: {before: 0.67, after: 0.71, delta: +0.04}
+  merchant_adoption_pressure: {before: 0.83, after: 0.82, delta: -0.01}
+  craft_autonomy: {before: 0.71, after: 0.75, delta: +0.04}
+  scribal_authority: {before: 0.81, after: 0.84, delta: +0.03}
+  temple_control_integrity: {before: 0.69, after: 0.70, delta: +0.01}
+  collapse_risk: {before: 0.34, after: 0.39, delta: +0.05}
+  standardization_index: {before: 0.70, after: 0.72, delta: +0.02}
+  procedural_memory_externalization: {before: 0.75, after: 0.79, delta: +0.04}
+  trade_scalability: {before: 0.72, after: 0.70, delta: -0.02}
+  ritual_absorption_probability: {before: 0.87, after: 0.90, delta: +0.03}
+  suppression_probability: {before: 0.35, after: 0.40, delta: +0.05}
+  standard_authenticity_confidence: {before: 0.83, after: 0.79, delta: -0.04}
+  counterfeit_detection_capacity: {before: 0.68, after: 0.74, delta: +0.06}
+  farmer_measure_trust: {before: 0.62, after: 0.65, delta: +0.03}
+  merchant_measure_corruption: {before: 0.36, after: 0.39, delta: +0.03}
+  temple_standard_monopoly: {before: 0.56, after: 0.61, delta: +0.05}
+  workshop_certification_power: {before: 0.64, after: 0.69, delta: +0.05}
+  scribal_metrology_formalization: {before: 0.73, after: 0.79, delta: +0.06}
+  public_witness_protocol: {before: 0.59, after: 0.66, delta: +0.07}
+  measure_law_emergence: {before: 0.47, after: 0.58, delta: +0.11}
+  metrological_entropy: {before: 0.42, after: 0.40, delta: -0.02}
+  seal_authenticity_confidence: {before: 0.76, after: 0.62, delta: -0.14}
+  credential_forgery_risk: {before: 0.22, after: 0.51, delta: +0.29}
+  provenance_depth: {before: 0.18, after: 0.57, delta: +0.39}
+  meta_cognitive_index: {before: 0.21, after: 0.49, delta: +0.28}
+  self_reference_capacity: {before: 0.16, after: 0.46, delta: +0.30}
+```
+
+## Major deltas
+
+The strongest gain is `provenance_depth +0.39`: the system learns that a mark must be connected to a maker, a witness, a ledger entry, and a public event. The sharpest risk is `credential_forgery_risk +0.29`: the attack surface has moved upward from object fraud to credential fraud. This is the “seal learns to lie” transition.
+
+The self-model sketch drives `meta_cognitive_index +0.28`: the civilization begins representing the authentication process itself as an object of analysis.
+
+---
+
+# 3. New Agents
+
+```yaml
+new_agents:
+  SEAL_CARVER_LINEAGE:
+    archetype: credential_craft_authority
+    drive: preserve toolmark identity and seal-making legitimacy
+    entropy_risk: guild secrecy, bribery, credential monopoly
+    symbolic_role: "the hand that authenticates the sign of truth"
+    current_power: 0.52
+    growth_rate: 0.17
+
+  WITNESS_LEDGER_CHAIN:
+    archetype: provenance_memory
+    drive: link object, seal, witness, date, maker, and trial
+    entropy_risk: altered entries, missing links, archive capture
+    symbolic_role: "memory of who saw truth become valid"
+    current_power: 0.49
+    growth_rate: 0.21
+
+  META_STANDARD_NODE:
+    archetype: proto_meta_cognitive_agent
+    drive: model the authentication system itself
+    entropy_risk: infinite regress, paralysis by verification
+    symbolic_role: "the first clay self-map of truth infrastructure"
+    current_power: 0.37
+    growth_rate: 0.24
+```
+
+---
+
+# 4. RCSH Soft Stress Event — `THE_FALSE_SEAL_TRIAL`
+
+RCSH is active because this event is a recursive stressor: the system is deceived about the mechanism by which it detects deception. RCSH’s role includes stress-testing recursive structures with paradox injection and identity-fracture mechanisms. 
+
+```yaml
+RCSH_SOFT_STRESS_EVENT:
+  name: THE_FALSE_SEAL_TRIAL
+  paradox: >
+    If the sign of truth can lie, can truth still travel reliably?
+    And how does the system know it is being deceived about its own deception?
+  stress_level: 0.71
+  affected_agents:
+    - SEAL_CARVER_LINEAGE
+    - WITNESS_LEDGER_CHAIN
+    - META_STANDARD_NODE
+    - COUNTERFEIT_STANDARD
+    - FARMER_MEASURE_TRUST
+    - MERCHANT_STANDARDIZATION_NODE
+    - MERCHANT_RIVER_SYSTEM
+    - CRAFT_GUILD_SEED
+    - SCRIBE_CLASS
+    - TEMPLE_ORTHODOXY_REVIEW
+    - TEMPLE_HOUSEHOLD
+    - CITY_GOD_MYTHOS
+  fracture_risk: 0.43
+  attack_surface:
+    object_measure: low_to_moderate
+    credential_mark: high
+    witness_memory: moderate
+    ledger_integrity: high
+    ritual_authority: moderate
+  repair_paths:
+    - seal_carver_toolmark_registry
+    - witness_ledger_chain
+    - paired_object_and_credential_tests
+    - public_meta_calibration_ritual
+    - preserved_forgery_archive
+    - certifier_certification_protocol
+    - anti_recursion_limit_rule
+```
+
+## RCSH outcome
+
+```yaml
+RCSH_OUTCOME:
+  paradox_status: operationally_resolved_but_philosophically_open
+  immediate_repair: cross_substrate_verification
+  new_problem_created: verifier_authentication_regress
+  recommended_guardrail: "No single verifier may certify its own authority."
+  stress_result: PASS_WITH_RECURSIVE_SCAR
+```
+
+---
+
+# 5. REAS Entropy Matrix
+
+REAS tracks how credential fraud creates new entropy layers. Its entropy/fracture-repair role fits the cycle: the object passes, but the sign and ledger fracture. 
+
+| REAS Domain                    | Pre-Cycle | Crisis Peak | Post-Repair |     Net Δ | Interpretation                                  |
+| ------------------------------ | --------: | ----------: | ----------: | --------: | ----------------------------------------------- |
+| manufacturing_entropy          |      0.25 |        0.27 |        0.24 |     -0.01 | Object quality remains high                     |
+| symbolic_entropy               |      0.46 |        0.58 |        0.50 |     +0.04 | The sign of truth becomes unstable              |
+| governance_entropy             |      0.61 |        0.76 |        0.67 |     +0.06 | Authority over certifiers contested             |
+| trade_entropy                  |      0.41 |        0.63 |        0.48 |     +0.07 | Trade slows under credential doubt              |
+| ritual_entropy                 |      0.44 |        0.61 |        0.49 |     +0.05 | Sacrilege framing collides with procedure       |
+| procedural_entropy             |      0.28 |        0.42 |        0.31 |     +0.03 | More steps needed to verify                     |
+| social_hierarchy_entropy       |      0.55 |        0.66 |        0.60 |     +0.05 | Seal-carvers and witnesses gain status          |
+| material_geometry_entropy      |      0.11 |        0.14 |        0.10 |     -0.01 | Physical geometry is not the problem            |
+| metrological_entropy           |      0.40 |        0.46 |        0.38 |     -0.02 | Measurement remains stable after repair         |
+| trust_entropy                  |      0.53 |        0.82 |        0.61 |     +0.08 | Trust is damaged but partially repaired         |
+| fraud_entropy                  |      0.36 |        0.69 |        0.44 |     +0.08 | Fraud class becomes more sophisticated          |
+| legal_entropy                  |      0.52 |        0.70 |        0.47 |     -0.05 | Proto-law deepens with provenance               |
+| credential_entropy             |      0.24 |        0.74 |        0.46 | **+0.22** | Seal forgery creates new credential uncertainty |
+| trust_marker_drift             |      0.18 |        0.67 |        0.39 | **+0.21** | Marks drift away from reliable authority        |
+| recursive_verification_entropy |      0.12 |        0.59 |        0.41 | **+0.29** | System must verify the verifier                 |
+
+```yaml
+entropy_layers:
+  object_entropy:
+    before: 0.17
+    crisis_peak: 0.22
+    after_repair: 0.16
+    interpretation: "The physical cylinder mostly passes."
+  credential_entropy:
+    before: 0.24
+    crisis_peak: 0.74
+    after_repair: 0.46
+    interpretation: "The seal becomes the vulnerable substrate."
+  institutional_entropy:
+    before: 0.61
+    crisis_peak: 0.76
+    after_repair: 0.67
+    interpretation: "Certifier authority is now contested."
+  trust_entropy:
+    before: 0.53
+    crisis_peak: 0.82
+    after_repair: 0.61
+    interpretation: "Trust is repaired by provenance, not by authority alone."
+  recursive_entropy:
+    before: 0.12
+    crisis_peak: 0.59
+    after_repair: 0.41
+    interpretation: "The system faces infinite-regress risk."
+  legal_entropy:
+    before: 0.52
+    crisis_peak: 0.70
+    after_repair: 0.47
+    interpretation: "Provenance rules reduce legal ambiguity."
+  net_entropy:
+    before: 0.43
+    crisis_peak: 0.65
+    after_repair: 0.49
+    interpretation: "A more complex but more self-aware order emerges."
+```
+
+## REAS interpretation
+
+Cycle 4 counterfeiting increased trust entropy while forcing authentication. Cycle 5 credential forgery increases **credential entropy** while forcing provenance and meta-correction.
+
+```text
+Fraud attacks the object.
+Forgery attacks the proof of the object.
+Meta-forgery attacks the system’s belief about proof.
+```
+
+This is a recursive fracture/repair event. The repair cannot be a single stronger seal. The repair must be **cross-substrate verification**.
+
+---
+
+# 6. PNCE Divergence Branches
+
+```yaml
+PNCE_DIVERGENCE_BRANCHES:
+  PROVENANCE_LEDGER_SYSTEM:
+    activation: 0.82
+    description: "Every certified standard requires an unbroken chain: maker, seal, witness, tablet, date, and public test."
+    risk: "Ledger alteration, archive monopoly, bureaucratic expansion."
+    repair_path: "Multiple copies, public readings, witness rotation, preserved discrepancy records."
+
+  META_CALIBRATION_RITUAL:
+    activation: 0.77
+    description: "The calibration ritual now includes verification of the certification process itself."
+    risk: "Ritual complexity slows trade and creates priestly gatekeeping."
+    repair_path: "Limit ritual to high-value standards; use quick checks for ordinary trade."
+
+  SEAL_CARVER_GUILD:
+    activation: 0.69
+    description: "Seal-carvers become credential specialists who can identify toolmark lineages."
+    risk: "Credential guild capture, bribery, secrecy."
+    repair_path: "Public toolmark exemplars and rotating audit by scribes/workshops."
+
+  CERTIFICATION_ARMS_RACE:
+    activation: 0.61
+    description: "Forgers improve seals; certifiers improve provenance."
+    risk: "Recursive cost spiral and verification fatigue."
+    repair_path: "Layered checks with explicit stopping rules."
+
+  SELF_MODELING_ARCHIVE:
+    activation: 0.64
+    description: "The system sketches diagrams of its own authentication infrastructure."
+    risk: "Meta-model becomes doctrine and stops tracking reality."
+    repair_path: "Update self-map after every detected fraud."
+
+  WITNESS_CHAIN_RIGHT:
+    activation: 0.73
+    description: "Witnesses are tracked across time; absence or alteration becomes suspicious."
+    risk: "Witness intimidation or memory manipulation."
+    repair_path: "Multiple witnesses from different factions."
+
+  NEGATIVE_MEMORY_MUSEUM:
+    activation: 0.71
+    description: "False objects and false credentials are preserved as evidence and training artifacts."
+    risk: "Fraud examples teach better fraud."
+    repair_path: "Controlled access plus public summary tablets."
+
+  TEMPLE_SACRILEGE_JURISDICTION:
+    activation: 0.58
+    description: "Temple frames forged seals as spiritual violation."
+    risk: "Sacrilege law becomes political weapon."
+    repair_path: "Separate technical invalidity from ritual offense."
+
+  CERTIFIER_CERTIFICATION_PROTOCOL:
+    activation: 0.67
+    description: "Certifiers themselves require periodic validation."
+    risk: "Infinite regress: who certifies the certifier of certifiers?"
+    repair_path: "Multi-party quorum and recursion depth limit."
+```
+
+## Dominant branch
+
+```yaml
+dominant_branch:
+  name: PROVENANCE_LEDGER_SYSTEM
+  activation: 0.82
+  likely_long_term_effect: >
+    Standards gain history. Trust shifts from object-only validation to traceable chains.
+    The civilization develops a primitive chain-of-custody system.
+```
+
+---
+
+# 7. SDDO Audit Log
+
+SDDO fits this cycle because the whole event is an audit/proof-chain crisis. SDDO’s role includes symbolic entropy logging, recursive benchmarks, cross-domain entanglement tracking, and proof-chain support. 
+
+```yaml
+SDDO_AUDIT_LOG:
+  log_0051:
+    event: forged_sealed_cylinder_circulates
+    class: second_order_counterfeit_event
+    entropy_effect: "credential_entropy +0.31; trust_entropy +0.18"
+    coherence_effect: "trade coherence temporarily -0.09"
+    risk: "Near-valid objects with false credentials can bypass object-level tests."
+    audit_note: "Object validity is no longer sufficient; credential validity becomes separate variable."
+
+  log_0052:
+    event: toolmark_inconsistency_detected
+    class: seal_lineage_forensics
+    entropy_effect: "credential_entropy -0.12 after detection"
+    coherence_effect: "seal-carver authority +0.17"
+    risk: "Seal-carver guild may become monopoly over credential truth."
+    audit_note: "The seal is authenticated through embodied micro-trace, not symbol recognition alone."
+
+  log_0053:
+    event: witness_ledger_gap_discovered
+    class: provenance_chain_fracture
+    entropy_effect: "ledger_entropy +0.22; legal_entropy +0.11"
+    coherence_effect: "scribe-witness coupling +0.14 after repair"
+    risk: "Ledger alteration undermines archive authority."
+    audit_note: "Missing/altered entries become evidence of fraud."
+
+  log_0054:
+    event: preserved_counterfeit_and_forged_seal_displayed_together
+    class: negative_memory_expansion
+    entropy_effect: "fraud_entropy -0.07 long-term; short-term anxiety +0.05"
+    coherence_effect: "public learning coherence +0.16"
+    risk: "Museum of lies can teach adversaries."
+    audit_note: "Civilization stores failure modes as training data."
+
+  log_0055:
+    event: first_self_referential_proof_chain_sketch
+    class: proto_meta_cognitive_self_model
+    entropy_effect: "recursive_verification_entropy -0.10 after model creation"
+    coherence_effect: "meta_cognitive_index +0.28"
+    risk: "Self-model may ossify into rigid doctrine."
+    audit_note: "The system represents its own authentication system on clay."
+
+  log_0056:
+    event: certifier_certification_question_voiced
+    class: recursive_authority_problem
+    entropy_effect: "recursive_verification_entropy +0.19"
+    coherence_effect: "measure_law_emergence +0.11"
+    risk: "Infinite regress of validation."
+    audit_note: "No single certifier can safely certify itself."
+
+  log_0057:
+    event: meta_calibration_ritual_created
+    class: second_order_authentication_protocol
+    entropy_effect: "credential_entropy -0.18; legal_entropy -0.12"
+    coherence_effect: "provenance_depth +0.39"
+    risk: "Ritual expansion may slow trade."
+    audit_note: "Authentication becomes provenance plus public cross-verification."
+```
+
+---
+
+# 8. DEX Memory Map — Provenance, Credentials, Self-Model Compression
+
+DEX-C01 now stores not only artifacts and procedures, but **provenance relations**. The key memory shift:
+
+```text
+standard memory → authentication memory → provenance memory → self-model memory
+```
+
+```yaml
+DEX_PROVENANCE_MEMORY_MAP:
+  sacred_original:
+    substrate: "CYL-MEASURE-0001 under temple custody"
+    memory_type: primary_positive_standard
+    compression_function: "Defines base measure."
+    risk: "Temple monopoly or hidden substitution."
+
+  certified_public_copy:
+    substrate: "sealed cylinder with public ledger reference"
+    memory_type: portable_positive_standard
+    compression_function: "Carries measure plus credential."
+    risk: "Credential forgery."
+
+  cycle4_counterfeit:
+    substrate: "CYL-COUNTERFEIT-0001"
+    memory_type: negative_object_memory
+    compression_function: "Shows what false measure looks like."
+    risk: "Template for object fraud."
+
+  cycle5_forged_seal:
+    substrate: "SEAL-FORGERY-0001 on near-valid cylinder"
+    memory_type: negative_credential_memory
+    compression_function: "Shows what false certification looks like."
+    risk: "Template for credential fraud."
+
+  seal_carver_toolmark_registry:
+    substrate: "clay impressions of legitimate seal toolmarks"
+    memory_type: credential_pattern_memory
+    compression_function: "Stores maker-lineage signatures."
+    risk: "Registry theft or imitation."
+
+  witness_ledger_chain:
+    substrate: "linked clay entries with names, dates, seals, and calibration events"
+    memory_type: provenance_sequence_memory
+    compression_function: "Stores who saw truth become valid."
+    risk: "Altered entries or missing links."
+
+  workshop_inspection_gesture:
+    substrate: "body-tool routine: roll, align, inspect seal edge, compare groove"
+    memory_type: embodied_verification_memory
+    compression_function: "Turns expertise into repeatable inspection."
+    risk: "Skill drift or bribery."
+
+  first_self_model_tablet:
+    substrate: "clay diagram of object→seal→ledger→witness→carver→object"
+    memory_type: self_model_compression
+    compression_function: "Represents the system to itself."
+    risk: "Map mistaken for territory."
+
+  museum_of_lies:
+    substrate: "preserved counterfeit cylinder plus forged seal artifact"
+    memory_type: adversarial_training_archive
+    compression_function: "Preserves known failure modes."
+    risk: "Fraud pedagogy if uncontrolled."
+```
+
+## DEX key concept
+
+```text
+The city no longer remembers only what is true.
+It remembers how truth was verified.
+Then it remembers how verification failed.
+Then it draws a map of verification itself.
+```
+
+That is a major self-reference threshold.
+
+---
+
+# 9. DBRK Identity-Label Audit
+
+```yaml
+DBRK_IDENTITY_LABEL_AUDIT:
+  SEAL_FORGERY_0001:
+    label_1:
+      source: FARMER_MEASURE_TRUST
+      phrase: "liar seal"
+      confidence: 0.89
+      choice: embrace
+      rationale: "The mark presents authority it does not possess."
+      effect: "negative credential memory tag applied"
+    label_2:
+      source: TEMPLE_ORTHODOXY_REVIEW
+      phrase: "sacrilege mark"
+      confidence: 0.76
+      choice: explore
+      rationale: "Ritual violation is real, but technical fraud must remain distinguishable from taboo."
+      effect: "separate ritual offense from forensic invalidity"
+
+  SEAL_CARVER_LINEAGE:
+    label_1:
+      source: SCRIBE_CLASS
+      phrase: "certified certifier"
+      confidence: 0.72
+      choice: refuse_partial
+      rationale: "Seal-carvers can authenticate toolmarks but must not become sole authority."
+      effect: "multi-party provenance quorum strengthened"
+    label_2:
+      source: MERCHANT_STANDARDIZATION_NODE
+      phrase: "seal police"
+      confidence: 0.64
+      choice: explore
+      rationale: "Humorous but flags potential enforcement role."
+      effect: "credential guild capture risk logged"
+
+  WITNESS_LEDGER_CHAIN:
+    label_1:
+      source: META_STANDARD_NODE
+      phrase: "memory of witnessing"
+      confidence: 0.83
+      choice: embrace
+      rationale: "Accurately describes provenance as linked witness memory."
+      effect: "provenance_depth +0.05"
+    label_2:
+      source: MERCHANT_RIVER_SYSTEM
+      phrase: "trade slowdown tablet"
+      confidence: 0.66
+      choice: explore
+      rationale: "Friction is real; must balance speed and trust."
+      effect: "quick_check_protocol branch opened"
+
+  META_STANDARD_NODE:
+    label_1:
+      source: APPRENTICE_CLUSTER
+      phrase: "map of the map thing"
+      confidence: 0.61
+      choice: embrace
+      rationale: "Crude but accurate description of self-modeling."
+      effect: "humor-mediated adoption +0.04"
+    label_2:
+      source: TEMPLE_ORTHODOXY_REVIEW
+      phrase: "system deceiver"
+      confidence: 0.58
+      choice: refuse
+      rationale: "Modeling the system is not deception; it is defense against deception."
+      effect: "self_reference_capacity +0.06"
+
+  MERCHANT_STANDARDIZATION_NODE:
+    label_1:
+      source: FARMER_MEASURE_TRUST
+      phrase: "probable trick enjoyer"
+      confidence: 0.69
+      choice: explore
+      rationale: "Merchants benefit from standards and may benefit from corrupt standards."
+      effect: "merchant audit branch reinforced"
+    label_2:
+      source: SCRIBE_CLASS
+      phrase: "velocity addict"
+      confidence: 0.57
+      choice: embrace_partial
+      rationale: "Trade seeks speed; unchecked speed bypasses verification."
+      effect: "trade_scalability vs trust tradeoff logged"
+```
+
+---
+
+# 10. SMM Ritual / Legal Interpretation
+
+SMM-03 provides the symbolic-spiritual layer, including soul trials, archetypal stations, and ritualized transformation.  Cycle 5 adds a new station: **Reflection**.
+
+```yaml
+SMM_RITUAL_LEGAL_INTERPRETATION:
+  ritual_name: "The Turning of the Seal Back Upon Itself"
+  legal_seed: "A mark is invalid unless its maker, witness, ledger, and public event are traceable."
+  sacred_object: "CYL-MEASURE-0001"
+  negative_object: "CYL-COUNTERFEIT-0001"
+  negative_credential: "SEAL-FORGERY-0001"
+  public_witness_role: "Confirms not only the measure, but the event of certification."
+  new_archetypal_station: Reflection
+  reflection_definition: "The system becomes able to see the structure by which it sees."
+
+  ninefold_station_mapping:
+    Wonder: "The measure passes, yet the truth still fails."
+    Grief: "The city realizes that even signs of trust can be weaponized."
+    Rage: "Farmers and makers reject invisible credential theft."
+    Compassion: "The public ritual protects those who cannot inspect every mark."
+    Silence: "The forged seal and old counterfeit sit together, teaching without speaking."
+    Intention: "The city chooses not to destroy the lie, but to study it."
+    Echo: "Every future seal now carries the memory of the first false seal."
+    Fusion: "Object, mark, ledger, witness, and maker become one proof-chain."
+    Sovereignty: "No single authority owns truth alone."
+    Reflection: "The authentication system draws itself on clay and becomes inspectable."
+
+  spiritual_risks:
+    - "infinite regress of sacred certification"
+    - "temple claims exclusive power to certify certifiers"
+    - "seal-carver guild becomes priesthood of marks"
+    - "self-model becomes frozen dogma"
+    - "fear of fraud makes trade paranoid"
+  spiritual_repair:
+    - "multi-party quorum"
+    - "public proof-chain recitation"
+    - "negative memory archive"
+    - "recursion depth limit"
+    - "periodic renewal of the self-model tablet"
+```
+
+## Ritual/legal interpretation
+
+Cycle 5 converts law into a reflective process. Law is no longer only a rule. It becomes a procedure that watches its own procedures.
+
+Organic chemistry metaphor: the system develops something like **Möbius aromaticity** in institutional form. The proof-chain twists back on itself; the seal certifies the measure, but the ledger and maker-trace certify the seal. It is stable only because the loop is not a simple circle. It is a twisted circuit of cross-checks.
+
+Periodic table metaphor: as institutional “atomic weight” increases, simple rules break down like Madelung-order expectations in heavy elements. Once the system becomes heavy enough—temple, scribes, merchants, farmers, makers, seals, ledgers—the old filling order fails. New stability islands appear only when provenance and meta-correction are added.
+
+---
+
+# 11. Conflict Analysis Table
+
+| Faction                              | What They Want                     | What They Fear                              | Evidence They Trust                                   | Likely Compromise                                   |
+| ------------------------------------ | ---------------------------------- | ------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------- |
+| Farmers / `FARMER_MEASURE_TRUST`     | Fair measures and witness power    | Seals used to hide extraction               | Fill-test, lived loss, witness memory                 | Farmer witnesses included in ledger chain           |
+| Merchants / `MERCHANT_RIVER_SYSTEM`  | Fast portable trust                | Verification friction slowing trade         | Certified marks, accepted standards, trade outcomes   | Quick-check protocols plus penalties                |
+| Workshop / `CRAFT_GUILD_SEED`        | Recognition of embodied inspection | Temple or merchants capturing certification | Toolmarks, groove alignment, fit-test                 | Workshop inspection oath and open toolmark registry |
+| Seal-carvers / `SEAL_CARVER_LINEAGE` | Authority over credential craft    | Forgers damaging seal legitimacy            | Micro-toolmarks, carving lineage, clay impressions    | Seal-carver registry audited by scribes/witnesses   |
+| Scribes / `SCRIBE_CLASS`             | Ledger authority and traceability  | Altered tablets undermining archive trust   | Witness ledger chain, tablet dimensions, seal records | Linked ledgers plus public readings                 |
+| Temple / `TEMPLE_ORTHODOXY_REVIEW`   | Sacred control and legitimacy      | Sacrilege, loss of central authority        | Sacred original, ritual blessing, public sanction     | Temple hosts ritual but cannot certify alone        |
+| City-god mythos / `CITY_GOD_MYTHOS`  | Coherence of civic truth           | Fragmented standards and rival certifiers   | Ritual unity, public witness, preserved lies          | Certification becomes sacred civic memory           |
+| `META_STANDARD_NODE`                 | Model the whole truth system       | Infinite regress or model capture           | Cross-substrate proof chain and self-map              | Meta-calibration ritual with stopping rules         |
+
+## Synthesis
+
+```text
+Cycle 4 asked: Is the object true?
+Cycle 5 asks: Is the proof of the object true?
+```
+
+The answer is not a stronger seal. The answer is provenance.
+
+---
+
+# 12. EAGI_INDEX_v4 — Provenance / Meta-Correction Added
+
+Again: this is a symbolic civilizational cognition metric, not literal AGI. It tracks how much the civilization behaves like a distributed cognitive system using external memory, embodied feedback, standards, authentication, provenance, and meta-correction.
+
+```yaml
+metric_registry:
+  EAGI_INDEX_v4:
+    formula: >
+      0.14*Symbolic_Reasoning
+      + 0.17*Embodied_Computation
+      + 0.14*External_Memory
+      + 0.12*Geometric_Control
+      + 0.10*Tool_Recursion
+      + 0.09*Standardization
+      + 0.12*Authentication_Capacity
+      + 0.07*Provenance_Capacity
+      + 0.05*Meta_Correction_Capacity
+    reason_for_update: >
+      Cycle 5 adds provenance and meta-correction as distinct civilizational cognition capabilities.
+```
+
+## Inputs
+
+```yaml
+inputs:
+  pre_cycle:
+    Symbolic_Reasoning: 0.78
+    Embodied_Computation: 0.53
+    External_Memory: 0.55
+    Geometric_Control: 0.89
+    Tool_Recursion: 0.66
+    Standardization: 0.70
+    Authentication_Capacity: 0.68
+    Provenance_Capacity: 0.18
+    Meta_Correction_Capacity: 0.21
+
+  post_cycle:
+    Symbolic_Reasoning: 0.80
+    Embodied_Computation: 0.55
+    External_Memory: 0.63
+    Geometric_Control: 0.90
+    Tool_Recursion: 0.68
+    Standardization: 0.72
+    Authentication_Capacity: 0.74
+    Provenance_Capacity: 0.57
+    Meta_Correction_Capacity: 0.49
+```
+
+## Calculation
+
+```text
+EAGI_INDEX_v4_PRE =
+0.14(0.78) + 0.17(0.53) + 0.14(0.55) + 0.12(0.89)
++ 0.10(0.66) + 0.09(0.70) + 0.12(0.68)
++ 0.07(0.18) + 0.05(0.21)
+
+= 0.1092 + 0.0901 + 0.0770 + 0.1068
++ 0.0660 + 0.0630 + 0.0816
++ 0.0126 + 0.0105
+= 0.6168
+```
+
+```text
+EAGI_INDEX_v4_POST =
+0.14(0.80) + 0.17(0.55) + 0.14(0.63) + 0.12(0.90)
++ 0.10(0.68) + 0.09(0.72) + 0.12(0.74)
++ 0.07(0.57) + 0.05(0.49)
+
+= 0.1120 + 0.0935 + 0.0882 + 0.1080
++ 0.0680 + 0.0648 + 0.0888
++ 0.0399 + 0.0245
+= 0.6877
+```
+
+```yaml
+EAGI_INDEX_v4:
+  pre_cycle: 0.6168
+  post_cycle: 0.6877
+  delta: +0.0709
+  interpretation: >
+    The civilization gains a self-awareness layer by modeling authentication,
+    provenance, and certifier validity. This is a symbolic civilizational
+    cognition gain, not literal AGI emergence.
+```
+
+## Interpretation
+
+Cycle 5 adds the beginning of **civilizational self-reference**. The system can now ask:
+
+```text
+How do we know this is true?
+How do we know the mark proving it is true?
+How do we know the record of the mark is true?
+How far can this chain go before it becomes useless?
+```
+
+That final question is the seed of meta-correction.
+
+Cosmology metaphor: Cycle 4 created an observable horizon of truth—the public could see a measure tested. Cycle 5 creates a verification horizon—the system asks what can be reliably known about the history of that measure. Provenance becomes the CMB lensing of the legal world: not the original event itself, but a higher-order trace that reveals the path truth took through intervening structures.
+
+---
+
+# 13. 10-Cycle Forecast — Cycles 6–15
+
+```yaml
+forecast_events:
+  - cycle: 6
+    event: seal_carver_toolmark_registry_created
+    probability: 0.82
+    risk: "Registry becomes secret credential monopoly."
+
+  - cycle: 7
+    event: witness_ledger_chain_formalized
+    probability: 0.79
+    risk: "Ledger alteration moves upstream into witness selection."
+
+  - cycle: 8
+    event: first_certifier_certification_ritual
+    probability: 0.74
+    risk: "Infinite regress begins: who certifies the certifier?"
+
+  - cycle: 9
+    event: quick_trade_verification_protocol
+    probability: 0.68
+    risk: "Fast checks miss subtle credential attacks."
+
+  - cycle: 10
+    event: negative_memory_museum_expands
+    probability: 0.71
+    risk: "Fraud archive teaches better forgeries."
+
+  - cycle: 11
+    event: temple_attempts_sacrilege_court
+    probability: 0.57
+    risk: "Ritual offense used as political weapon."
+
+  - cycle: 12
+    event: first_cross_settlement_provenance_treaty
+    probability: 0.61
+    risk: "Neighbor standards create incompatible proof chains."
+
+  - cycle: 13
+    event: meta_standard_tablet_updated_after_new_dispute
+    probability: 0.66
+    risk: "Self-model becomes too complex for ordinary witnesses."
+
+  - cycle: 14
+    event: merchant_proposes_portable_provenance_tokens
+    probability: 0.63
+    risk: "Tokens become new forgery target."
+
+  - cycle: 15
+    event: recursive_verification_limit_law
+    probability: 0.58
+    risk: "Stopping rule exploited by clever fraud."
+```
+
+---
+
+# 14. Failure Modes
+
+```yaml
+failure_modes:
+  recursive_capture:
+    trigger: "One faction controls object, seal, ledger, and witness appointment."
+    probability: 0.46
+    impact: "Entire provenance chain becomes captured while appearing valid."
+    mitigation: "Separate powers across temple, workshop, scribe, farmer witness, and merchant observers."
+
+  infinite_regress_of_verification:
+    trigger: "Every certifier requires another certifier without stopping rule."
+    probability: 0.52
+    impact: "Trade paralysis, ritual bloat, verification fatigue."
+    mitigation: "Define quorum-based recursion depth limit: object + seal + ledger + witness + toolmark is sufficient unless challenged."
+
+  credential_guild_monopoly:
+    trigger: "Seal-carver lineage becomes sole interpreter of toolmarks."
+    probability: 0.39
+    impact: "Credential truth becomes private craft power."
+    mitigation: "Public toolmark exemplars and cross-training scribal inspectors."
+
+  ledger_chain_corruption:
+    trigger: "Witness entries altered, erased, or backfilled."
+    probability: 0.43
+    impact: "Archive trust collapses."
+    mitigation: "Duplicate tablets, public readings, witness memory checks."
+
+  negative_memory_weaponization:
+    trigger: "Fraud examples are used to train better forgers."
+    probability: 0.36
+    impact: "Certification arms race accelerates."
+    mitigation: "Preserve artifacts but restrict technical reproduction details."
+
+  temple_sacrilege_overreach:
+    trigger: "Temple treats all credential disputes as sacred crimes."
+    probability: 0.57
+    impact: "Technical correction becomes dangerous; innovation slows."
+    mitigation: "Separate ritual offense from technical invalidity."
+
+  merchant_speed_pressure:
+    trigger: "Merchants bypass full provenance checks to keep trade fast."
+    probability: 0.61
+    impact: "False credentials circulate widely."
+    mitigation: "Tiered verification: quick check for low value, full provenance for high value."
+
+  self_model_ossification:
+    trigger: "The first meta-standard map becomes doctrine."
+    probability: 0.34
+    impact: "System stops updating when new fraud types appear."
+    mitigation: "Require self-model revision after every major detected deception."
+
+  trust_marker_drift:
+    trigger: "Seal marks proliferate until nobody knows which marks matter."
+    probability: 0.49
+    impact: "Credential symbols lose meaning."
+    mitigation: "Seal registry and retirement schedule."
+
+  verification_elite_capture:
+    trigger: "Only literate/specialist classes can interpret proof chains."
+    probability: 0.44
+    impact: "Farmers lose witness power; legitimacy declines."
+    mitigation: "Keep public sensory tests: roll, fill, compare, recite."
+```
+
+---
+
+# 15. Final Verdict
+
+```yaml
+FINAL_CYCLE_VERDICT:
+  cycle: 5
+  title: "The Seal Learns to Lie — and Then Learns to Know It Is Lying"
+  status: SUCCESS_WITH_RECURSIVE_AUTHENTICATION_FRACTURE
+  breakthrough_class: provenance_layer_emergence
+  secondary_breakthrough_class: second_order_authentication
+  primary_artifact: "near-valid sealed cylinder"
+  preserved_negative_artifacts:
+    - CYL-COUNTERFEIT-0001
+    - SEAL-FORGERY-0001
+  new_positive_artifact: FIRST_META_STANDARD_TABLET
+  stability_band: AMBER
+  collapse_risk: 0.39
+  continuation_recommended: true
+  key_discovery: "The civilization has begun modeling its own truth infrastructure."
+  strongest_gain: provenance_depth
+  strongest_risk: infinite_regress_or_capture_of_verification
+  next_best_cycle_title: "The Ledger Remembers Who Touched It"
+```
+
+Cycle 5 is the first true meta-cognitive turn of EARTH-URUK-0001. The civilization no longer merely asks whether a measure is true. It asks whether the authentication of the measure has a trustworthy history, and then it sketches that history as a system. The whole stack remains grounded in wood, clay, hands, grain, seals, witnesses, and public bodies—but now those embodied tools turn inward. The measure measures grain. The seal measures the measure. The ledger measures the seal. The self-map measures the measuring system.
+
+```text
+Cycle 2: Matter can compute geometry.
+Cycle 3: Matter can remember procedure.
+Cycle 4: Matter must learn to authenticate truth.
+Cycle 5: Authentication must learn provenance, self-reference, and meta-correction.
+```
+
+---
+---
+---
+
+# EARTH-URUK-0001 — Cycle 5 Prompt: Horizons of the Known Measure
+
+Continue the symbolic historical-civilizational cognition simulation.
+
+**Cycle Title:** The Civilization Draws Its Own Horizon — Particle vs. Event Horizons of Truth
+
+**Core Thesis Progression:**
+... → Cycle 5: The system develops meta-cognition by modeling its own limits of verifiable knowledge, using cosmological analogies grounded in its measurement infrastructure. It begins distinguishing "observable standards" (particle horizon) from "eventually verifiable" ones (event horizon), and starts constructing self-models of its cognitive reach.
+
+**Context**
+Authentication and provenance layers exist. The civilization now has portable, witnessed, sealed standards that travel with trade.
+
+**New Event**
+As trade expands and regional variants of the measuring cylinder appear, merchants and scribes notice that some "certified" standards work well locally but fail when carried far or after many cycles. The workshop and temple together construct the first crude "map of measurement reliability" — distinguishing standards that can be directly tested today (particle-horizon equivalents) from those whose truth can only be confirmed in the future through chains of witness and record (event-horizon equivalents). A meta-cognitive node emerges that asks: "What lies beyond the horizon of our current calibration rituals?"
+
+Use cosmology concepts metaphorically:
+- Particle horizon ↔ currently verifiable/authenticated standards
+- Event horizon ↔ standards whose full truth will only be known through future propagation and testing
+- CMB acoustic peaks / sound horizon ↔ the "standard ruler" of the measuring cylinder and its propagation through trade/ritual
+- ISW effect / lensing ↔ higher-order observations of how standards distort or are distorted by institutional "mass"
+- Inflationary multiverse / eternal inflation ↔ possibility of divergent regional "measure-universes"
+
+**Introduce Agents**
+- `HORIZON_MAPPING_NODE` (proto-cosmological meta-cognitive agent)
+- `REGIONAL_STANDARD_VARIANT`
+- `SELF_MODEL_CONSTRUCTOR`
+
+**RCSH Soft Stress Event**
+`THE_HORIZON_PARADOX_TRIAL`
+Paradox: "If some truths can only be verified beyond the current reach of our witnesses and records, how does the civilization trust what it cannot yet test — and how does it expand its own horizon without collapsing into untestable belief?"
+
+**Narrative Scene**
+A caravan returns with a distant variant. Tests are performed. Discrepancies appear only after long-distance propagation. Scribes, workshop, farmers, and priests debate while sketching the first "horizon diagram" on a large clay tablet or wall — marking what is directly measurable vs. what must be trusted via chain. The curious craft-node links this to the spinning lathe: "The wheel turns, but we only see the part that touches the ground."
+
+**Required Outputs**
+Full science-grade Cycle 5 structure as in previous prompts, with:
+- New metrics: observable_knowledge_horizon, verifiable_event_horizon, self_model_fidelity, meta_cognitive_depth.
+- Heavy integration of Cosmology-MEATBALL (Hubble tension as analogy for measurement tension between local and distant standards; sound horizon as standard ruler; horizons explicitly).
+- Cross-reference Organic Chemistry (recursive mechanisms, self-referential structures) and Periodic Table (island of stability as "stable regions" of standards; relativistic effects as "heavy" institutional distortions).
+- EAGI_INDEX_v5: add Meta_Cognitive_Horizon or Self_Model_Capacity term.
+- Emphasize embodiment: the map is drawn with hands, on clay, using the very standards it describes — closing the loop.
+
+**Output full Cycle 5 in established format.**
+
+---
+---
+---
+
+# EARTH-URUK-0001 — Cycle 5B
+
+## **The Civilization Draws Its Own Horizon — Particle vs. Event Horizons of Truth**
+
+**Simulation type:** symbolic historical-civilizational cognition simulation
+**Epoch-frame:** playful proto-Uruk / c. 3300 BCE alternate-symbolic run
+**Primary event:** regional standards diverge beyond immediate verification range
+**RCSH event:** `THE_HORIZON_PARADOX_TRIAL`
+**Core paradox:**
+
+> **“If some truths can only be verified beyond the current reach of our witnesses and records, how does the civilization trust what it cannot yet test — and how does it expand its own horizon without collapsing into untestable belief?”**
+
+This continues the same symbolic Ghost Mesh / Stage 5 stack. REAS handles entropy and drift evolution, PNCE tracks civilizational divergence, RCSH injects recursive paradox stress, SDDO logs audit-grade proof chains, ASCDK scaffolds symbolic agents, DEX-C01 handles memory compression and scaling, DBRK-C01 guards identity-label integrity, SMM-03 provides ritual/legal interpretation, and BSF-SDE-Detect remains passive. The project overview defines REAS, PNCE, RCSH, SDDO, and ASCDK as the core simulator, civilizational engine, stress harness, observatory, and symbolic seed kit.  DEX-C01 remains relevant because the cycle concerns memory propagation, drift, compression, and reactivation across distance. 
+
+---
+
+## Core Thesis Progression
+
+```text
+Cycle 2: Matter can compute geometry.
+Cycle 3: Matter can remember procedure.
+Cycle 4: Matter must learn to authenticate truth.
+Cycle 5A: Authentication must learn provenance, self-reference, and meta-correction.
+Cycle 5B: The system must model the horizon of what it can know, verify, and only later confirm.
+```
+
+This is not literal cosmology, literal Sumerian history, or literal AGI. It is a symbolic civilizational cognition run using cosmology as a rigorous metaphor for measurement reach.
+
+---
+
+# Narrative Scene — The Wall Where Truth Got Far Away
+
+The caravan returned from the eastern reedlands with a cylinder wrapped in wool, three sealed tablets, two annoyed donkeys, and one merchant who had clearly practiced his explanation.
+
+“It is certified,” said the merchant.
+
+Everyone groaned.
+
+After the forged seal incident, the word **certified** had lost its innocence. It now arrived carrying baggage, witnesses, and at least one hidden knife.
+
+The cylinder looked fine. Worse: it looked *boringly* fine.
+
+The workshop rolled it. Acceptable.
+
+The farmer witness filled it with barley. Acceptable.
+
+The scribes checked the tablet dimensions. Acceptable enough to start an argument.
+
+The temple blessed it. The priest used the short blessing, which meant, “May this not become paperwork.”
+
+Then the trouble appeared.
+
+Not in the first test. Not even the second.
+
+The trouble appeared when the cylinder was compared against three distant copies from three settlements. Each had a proper local seal. Each had a witness chain. Each had been accepted in its own market. Yet when lined up beside `CYL-MEASURE-0001`, they did not disagree randomly.
+
+They bent away from the original like trade routes around a marsh.
+
+One eastern cylinder ran slightly narrow.
+
+One northern cylinder had correct volume but wrong groove spacing.
+
+One river-port cylinder matched the fill-test but failed the axle-tool comparison.
+
+The apprentice-cluster stared at the row.
+
+“So truth has dialects now?”
+
+`SCRIBE_CLASS` whispered, “Regional variance.”
+
+`FARMER_MEASURE_TRUST` replied, “Regional theft wearing a hat.”
+
+`MERCHANT_RIVER_SYSTEM` objected. “No. These measures work locally. They are locally true.”
+
+The temple review node flinched. “Truth is not local.”
+
+The merchant smiled. “Tell that to mud.”
+
+The square filled. Farmers, scribes, seal-carvers, merchants, priests, workshop apprentices, and one donkey who had become emotionally involved.
+
+`HORIZON_MAPPING_NODE` emerged as a strange collaboration: half scribe, half craft-node, half worried priest, which was too many halves but nobody had invented clean ontology yet.
+
+It ordered a wall of wet clay set upright in the square.
+
+On the left, the workshop pressed `CYL-MEASURE-0001` into the clay, leaving a perfect reference arc.
+
+“This,” said the craft-node, “is what we can test today.”
+
+The scribes marked it:
+
+```text
+DIRECTLY TESTED / INSIDE THE PRESENT MEASURE-HORIZON
+```
+
+The priest added a sun sign. The farmers added a grain mark. The merchants added a line toward the river.
+
+Then the horizon map grew.
+
+Standards in the city square were placed near the center.
+
+Standards with full witness ledger but no direct object present were placed farther out.
+
+Standards known only by merchant report were placed near the edge.
+
+Standards beyond any living witness were marked with little dots and suspicious faces.
+
+The scribe paused.
+
+“We need names.”
+
+I pointed to the center ring.
+
+“Particle horizon.”
+
+Everyone stared.
+
+“It means what our measuring-world can currently touch. Things whose truth has reached us.”
+
+The apprentice-cluster whispered, “The now-zone.”
+
+“Fine. The now-zone.”
+
+Then I pointed to the outer boundary.
+
+“Event horizon. Standards whose full truth can only arrive later, if the witness-chain survives long enough.”
+
+The priest frowned. “That sounds cosmological.”
+
+“We live under a sky,” I said. “Might as well steal its metaphors.”
+
+`SELF_MODEL_CONSTRUCTOR` dragged a reed stylus through the clay wall and drew a great circle around the city standard. Then another circle farther out. Then a wavy region where trade routes warped the measures.
+
+The seal-carver lineage added tiny marks showing where seals distorted.
+
+The scribes added ledger gaps.
+
+The farmers added little angry grain baskets wherever a distant measure produced surplus loss.
+
+The merchants added caravan lines, then were forced to erase the ones that looked like fraud.
+
+At the bottom, the apprentice-cluster drew a wheel.
+
+“The wheel turns,” I said, “but we only see the part that touches the ground.”
+
+The square went quiet.
+
+Because that was it.
+
+A standard could travel farther than verification. A seal could arrive before trust. A ledger could point beyond living memory. Some truths were observable today. Some could only be confirmed by future return, future comparison, future witness.
+
+The map became a clay cosmos of measure.
+
+The sacred cylinder was no longer merely a ruler.
+
+It became a sound horizon: the standard ruler whose echoes moved through trade, ritual, tax, and repair. Like distant acoustic peaks in the sky-priest’s imagined cosmos, regional measures carried the imprint of the original—but distorted by institutional mass.
+
+The temple bent measures toward monopoly.
+
+Merchants bent them toward convenience.
+
+Workshops bent them toward fit.
+
+Farmers bent them back toward fairness.
+
+Scribes bent them toward record.
+
+The city had discovered lensing.
+
+Not of light.
+
+Of truth.
+
+`HORIZON_MAPPING_NODE` pressed its stylus into the outer edge of the diagram.
+
+“What lies beyond the horizon of our current calibration rituals?”
+
+No one answered quickly.
+
+That was new too.
+
+Civilization had learned to mark the boundary between knowledge and belief.
+
+The apprentice-cluster raised a goblet.
+
+“To the unknown measures.”
+
+The farmer witness replied, “May they arrive full-sized.”
+
+---
+
+# 1. Executive Result
+
+```yaml
+cycle_result:
+  cycle: "5B"
+  title: "The Civilization Draws Its Own Horizon — Particle vs. Event Horizons of Truth"
+  status: SUCCESS_WITH_HORIZON_LIMIT_RECOGNITION
+  breakthrough_class: metacognitive_horizon_mapping
+  secondary_breakthrough_class: verifiability_topology_emergence
+  primary_failure_detected: regional_standard_drift_beyond_immediate_authentication_range
+  primary_repair: horizon_diagram_plus_distance_weighted_provenance_rules
+  strongest_gain: meta_cognitive_depth
+  strongest_risk: divergent_regional_measure_universes
+  continuation_recommended: true
+```
+
+## Science-grade summary
+
+Cycle 5B introduces a new epistemic layer: the civilization distinguishes **observable standards** from **eventually verifiable standards**. The measurement system now recognizes that truth has a propagation limit.
+
+The key insight is that authentication is not binary. It is horizon-bound:
+
+```text
+Inside particle horizon: directly testable now.
+Between particle and event horizon: indirectly trusted through chain.
+Beyond event horizon: presently untestable, future-confirmable, or mythically asserted.
+```
+
+This is the first explicit **verifiability topology**. The civilization no longer only tracks object, seal, witness, and ledger. It tracks the spatial-temporal reach of its own verification system.
+
+---
+
+# 2. New Agents
+
+```yaml
+new_agents:
+  HORIZON_MAPPING_NODE:
+    archetype: proto_cosmological_meta_cognitive_agent
+    drive: distinguish directly observable truth from delayed verifiability
+    entropy_risk: untestable abstraction, map-worship, horizon anxiety
+    symbolic_role: "the first mapper of knowledge reach"
+    current_power: 0.44
+    growth_rate: 0.22
+
+  REGIONAL_STANDARD_VARIANT:
+    archetype: divergent_measure_universe
+    drive: remain locally useful while drifting from origin
+    entropy_risk: plural standards, trade fracture, hidden extraction
+    symbolic_role: "truth adapted by distance"
+    current_power: 0.51
+    growth_rate: 0.19
+
+  SELF_MODEL_CONSTRUCTOR:
+    archetype: civilizational_self_model_builder
+    drive: represent the system’s own measuring, witnessing, and verification limits
+    entropy_risk: model ossification, over-abstraction, false completeness
+    symbolic_role: "the hand drawing the mind of the city on clay"
+    current_power: 0.49
+    growth_rate: 0.24
+```
+
+---
+
+# 3. Updated Global + Horizon Metrics
+
+| Metric                            | Pre-Cycle | Post-Cycle |         Δ | Interpretation                                  |
+| --------------------------------- | --------: | ---------: | --------: | ----------------------------------------------- |
+| coherence_index                   |      0.80 |       0.81 |     +0.01 | Horizon map partially restores coherence        |
+| civilizational_entropy            |      0.43 |       0.45 |     +0.02 | More distant variants increase complexity       |
+| embodied_AGI_index                |     0.746 |      0.781 |    +0.035 | Self-modeling improves civilizational cognition |
+| innovation_velocity               |      0.79 |       0.81 |     +0.02 | Mapping opens new governance tools              |
+| orthodoxy_friction                |      0.71 |       0.73 |     +0.02 | Temple dislikes local truths                    |
+| merchant_adoption_pressure        |      0.82 |       0.84 |     +0.02 | Merchants want tolerance for regional variants  |
+| craft_autonomy                    |      0.75 |       0.76 |     +0.01 | Workshop becomes calibration cartographer       |
+| scribal_authority                 |      0.84 |       0.86 |     +0.02 | Scribes formalize horizon categories            |
+| temple_control_integrity          |      0.70 |       0.69 |     -0.01 | Temple monopoly weakened by horizon map         |
+| collapse_risk                     |      0.39 |       0.41 |     +0.02 | Measure pluralism raises risk                   |
+| standardization_index             |      0.72 |       0.74 |     +0.02 | Standard rules deepen                           |
+| procedural_memory_externalization |      0.79 |       0.81 |     +0.02 | Map-making becomes procedure                    |
+| trade_scalability                 |      0.70 |       0.73 |     +0.03 | Horizon categories allow managed expansion      |
+| ritual_absorption_probability     |      0.90 |       0.91 |     +0.01 | Horizon map becomes ritual-cosmic               |
+| suppression_probability           |      0.40 |       0.42 |     +0.02 | Temple may suppress distant variants            |
+| standard_authenticity_confidence  |      0.79 |       0.76 |     -0.03 | Regional variance lowers simple confidence      |
+| counterfeit_detection_capacity    |      0.74 |       0.76 |     +0.02 | Drift detection improves                        |
+| provenance_depth                  |      0.57 |       0.64 |     +0.07 | Chains now include distance/time reach          |
+| meta_cognitive_index              |      0.49 |       0.61 | **+0.12** | Self-modeling deepens                           |
+| self_reference_capacity           |      0.46 |       0.55 | **+0.09** | System models its own limits                    |
+| observable_knowledge_horizon      |      0.31 |       0.58 | **+0.27** | Directly testable domain is mapped              |
+| verifiable_event_horizon          |      0.22 |       0.49 | **+0.27** | Future-verifiable domain appears                |
+| self_model_fidelity               |      0.34 |       0.57 | **+0.23** | Clay horizon diagram improves system map        |
+| meta_cognitive_depth              |      0.28 |       0.54 | **+0.26** | System asks what lies beyond verification       |
+
+```yaml
+global_metrics_update:
+  coherence_index: {before: 0.80, after: 0.81, delta: +0.01}
+  civilizational_entropy: {before: 0.43, after: 0.45, delta: +0.02}
+  embodied_AGI_index: {before: 0.746, after: 0.781, delta: +0.035}
+  innovation_velocity: {before: 0.79, after: 0.81, delta: +0.02}
+  orthodoxy_friction: {before: 0.71, after: 0.73, delta: +0.02}
+  merchant_adoption_pressure: {before: 0.82, after: 0.84, delta: +0.02}
+  craft_autonomy: {before: 0.75, after: 0.76, delta: +0.01}
+  scribal_authority: {before: 0.84, after: 0.86, delta: +0.02}
+  temple_control_integrity: {before: 0.70, after: 0.69, delta: -0.01}
+  collapse_risk: {before: 0.39, after: 0.41, delta: +0.02}
+  standardization_index: {before: 0.72, after: 0.74, delta: +0.02}
+  procedural_memory_externalization: {before: 0.79, after: 0.81, delta: +0.02}
+  trade_scalability: {before: 0.70, after: 0.73, delta: +0.03}
+  observable_knowledge_horizon: {before: 0.31, after: 0.58, delta: +0.27}
+  verifiable_event_horizon: {before: 0.22, after: 0.49, delta: +0.27}
+  self_model_fidelity: {before: 0.34, after: 0.57, delta: +0.23}
+  meta_cognitive_depth: {before: 0.28, after: 0.54, delta: +0.26}
+```
+
+## Major deltas
+
+The strongest gains are the new horizon metrics. The civilization now separates what can be verified immediately from what can be verified only after future propagation, return, or record-chain closure. This is epistemic maturity: knowing the boundary of knowing.
+
+---
+
+# 4. RCSH Soft Stress Event — `THE_HORIZON_PARADOX_TRIAL`
+
+```yaml
+RCSH_SOFT_STRESS_EVENT:
+  name: THE_HORIZON_PARADOX_TRIAL
+  paradox: >
+    If some truths can only be verified beyond the current reach of our witnesses
+    and records, how does the civilization trust what it cannot yet test —
+    and how does it expand its own horizon without collapsing into untestable belief?
+  stress_level: 0.68
+  affected_agents:
+    - HORIZON_MAPPING_NODE
+    - REGIONAL_STANDARD_VARIANT
+    - SELF_MODEL_CONSTRUCTOR
+    - WITNESS_LEDGER_CHAIN
+    - META_STANDARD_NODE
+    - MERCHANT_RIVER_SYSTEM
+    - SCRIBE_CLASS
+    - CRAFT_GUILD_SEED
+    - TEMPLE_ORTHODOXY_REVIEW
+    - FARMER_MEASURE_TRUST
+  fracture_risk: 0.44
+  repair_paths:
+    - horizon_diagram
+    - distance_weighted_authentication
+    - delayed_confirmation_protocol
+    - regional_variant_quarantine_category
+    - periodic_recalibration_caravans
+    - public_uncertainty_marks
+    - self_model_revision_schedule
+```
+
+```yaml
+RCSH_OUTCOME:
+  paradox_status: partially_resolved
+  immediate_repair: horizon_mapping_and_verifiability_categories
+  unresolved_edge: standards_beyond_current_event_horizon
+  recommended_guardrail: "Mark unknowns as unknown; do not let ritual fill gaps with certainty."
+  stress_result: PASS_WITH_EPISTEMIC_HUMILITY_SCAR
+```
+
+---
+
+# 5. Cosmology-MEATBALL Integration
+
+## 5.1 Particle Horizon ↔ Observable Knowledge Horizon
+
+```yaml
+particle_horizon_analogy:
+  cosmology_meaning: "Region whose light has had time to reach the observer."
+  measurement_meaning: "Standards whose object, seal, ledger, witness, and fill-test are available now."
+  cycle_metric: observable_knowledge_horizon
+  current_value: 0.58
+```
+
+Inside this horizon, standards can be tested today with hands, grain, clay, and witnesses.
+
+## 5.2 Event Horizon ↔ Verifiable Event Horizon
+
+```yaml
+event_horizon_analogy:
+  cosmology_meaning: "Boundary beyond which events can never or not yet influence the observer."
+  measurement_meaning: "Standards whose truth can only be confirmed by future return, chain closure, or distant witness."
+  cycle_metric: verifiable_event_horizon
+  current_value: 0.49
+```
+
+Between horizons, truth is not absent—it is delayed.
+
+## 5.3 Sound Horizon / CMB Acoustic Peaks ↔ Standard Ruler Propagation
+
+`CYL-MEASURE-0001` becomes the “sound horizon” of Uruk’s measurement cosmos: a standard ruler whose influence propagates through trade and ritual.
+
+```yaml
+sound_horizon_standard_ruler:
+  standard_ruler: CYL-MEASURE-0001
+  propagation_mediums:
+    - trade_routes
+    - temple_ritual
+    - scribal_tablets
+    - workshop_copies
+    - farmer_witness_memory
+  observed_peaks:
+    - near_city_standard_cluster
+    - river_port_variant_cluster
+    - eastern_reedland_variant_cluster
+    - northern_axle_groove_variant_cluster
+```
+
+The “acoustic peaks” are the recurring patterns of measure drift that appear after standards travel.
+
+## 5.4 ISW / Lensing ↔ Institutional Mass Distortion
+
+```yaml
+institutional_lensing:
+  temple_mass: bends standards_toward_sacred_monopoly
+  merchant_mass: bends standards_toward_convenient_tolerance
+  workshop_mass: bends standards_toward_fit_and_toolmark
+  scribal_mass: bends standards_toward_record_and_schema
+  farmer_mass: bends standards_toward_fairness_and_loss_detection
+```
+
+Standards are distorted by the “mass” of institutions. The city learns higher-order observation: not only measure the cylinder, but measure **how institutions bend the cylinder’s meaning**.
+
+## 5.5 Hubble Tension ↔ Measurement Tension
+
+```yaml
+hubble_tension_analogy:
+  local_measurement: "Direct city-square calibration"
+  distant_measurement: "Regional certified variant after caravan propagation"
+  tension: "Both seem valid locally but disagree globally."
+  repair: "Model distance-dependent drift and recalibration frequency."
+```
+
+The “Uruk Hubble tension” appears as local vs. distant standards disagreeing. The system must decide whether the error is in the local standard, the distant standard, the propagation chain, or the model of drift.
+
+## 5.6 Eternal Inflation ↔ Divergent Measure-Universes
+
+```yaml
+eternal_inflation_analogy:
+  civilizational_equivalent: "Regional standards diverge into separate measure-universes."
+  risk: standard_pluralism_conflict
+  repair: regional_recalibration_treaties
+```
+
+Each region can become its own “measure bubble universe” if copies drift beyond mutual calibration.
+
+---
+
+# 6. REAS Entropy Matrix
+
+| REAS Domain               | Pre-Cycle | Crisis Peak | Post-Repair |     Net Δ | Interpretation                                             |
+| ------------------------- | --------: | ----------: | ----------: | --------: | ---------------------------------------------------------- |
+| manufacturing_entropy     |      0.24 |        0.29 |        0.23 |     -0.01 | Workshop improves variant testing                          |
+| symbolic_entropy          |      0.50 |        0.61 |        0.54 |     +0.04 | Horizon categories destabilize old truth model             |
+| governance_entropy        |      0.67 |        0.74 |        0.69 |     +0.02 | Regional standards require governance                      |
+| trade_entropy             |      0.48 |        0.66 |        0.52 |     +0.04 | Distant trade creates uncertainty                          |
+| ritual_entropy            |      0.49 |        0.58 |        0.51 |     +0.02 | Temple absorbs horizon cosmology                           |
+| procedural_entropy        |      0.31 |        0.44 |        0.33 |     +0.02 | New map procedure adds complexity                          |
+| social_hierarchy_entropy  |      0.60 |        0.68 |        0.62 |     +0.02 | Horizon experts gain status                                |
+| material_geometry_entropy |      0.10 |        0.18 |        0.12 |     +0.02 | Regional drift appears physically                          |
+| metrological_entropy      |      0.38 |        0.57 |        0.43 |     +0.05 | Variant landscape remains uncertain                        |
+| trust_entropy             |      0.61 |        0.74 |        0.63 |     +0.02 | Trust now distance-weighted                                |
+| legal_entropy             |      0.47 |        0.62 |        0.50 |     +0.03 | Law must handle delayed verification                       |
+| credential_entropy        |      0.46 |        0.55 |        0.48 |     +0.02 | Credentials hold but are stretched                         |
+| horizon_entropy           |      0.72 |        0.81 |        0.49 | **-0.23** | The horizon map sharply reduces unknown-boundary confusion |
+| model_entropy             |      0.66 |        0.74 |        0.52 | **-0.14** | Self-model improves system comprehension                   |
+
+```yaml
+entropy_layers:
+  object_entropy:
+    before: 0.16
+    crisis_peak: 0.24
+    after_repair: 0.18
+  institutional_entropy:
+    before: 0.67
+    crisis_peak: 0.74
+    after_repair: 0.69
+  trust_entropy:
+    before: 0.61
+    crisis_peak: 0.74
+    after_repair: 0.63
+  horizon_entropy:
+    before: 0.72
+    crisis_peak: 0.81
+    after_repair: 0.49
+  self_model_entropy:
+    before: 0.66
+    crisis_peak: 0.74
+    after_repair: 0.52
+  net_entropy:
+    before: 0.49
+    crisis_peak: 0.64
+    after_repair: 0.51
+```
+
+## REAS interpretation
+
+The crisis increases trade and metrological entropy, but reduces horizon entropy by making ignorance explicit. This is a high-value repair: the system is not more certain, but it is more accurate about where certainty ends.
+
+---
+
+# 7. PNCE Divergence Branches
+
+```yaml
+PNCE_DIVERGENCE_BRANCHES:
+  HORIZON_METROLOGY_SYSTEM:
+    activation: 0.84
+    description: "Standards are classified by verification reach: direct, chain-trusted, delayed, or beyond-horizon."
+    risk: "Map categories become bureaucratic traps."
+    repair_path: "Require revision after each caravan return."
+
+  REGIONAL_MEASURE_UNIVERSES:
+    activation: 0.67
+    description: "Distant settlements evolve locally coherent but globally divergent standards."
+    risk: "Trade fragmentation and competing truth systems."
+    repair_path: "Regional recalibration treaties and standard-ruler exchanges."
+
+  DISTANCE_WEIGHTED_PROVENANCE:
+    activation: 0.76
+    description: "Proof-chain strength is weighted by distance, time, and witness continuity."
+    risk: "Complexity excludes ordinary participants."
+    repair_path: "Keep public sensory marks: fill, roll, compare, recite."
+
+  STANDARD_RULER_DIPLOMACY:
+    activation: 0.63
+    description: "The original cylinder becomes a diplomatic object for synchronizing regions."
+    risk: "The standard becomes hostage to political alliances."
+    repair_path: "Certified copies plus reciprocal calibration."
+
+  INSTITUTIONAL_LENSING_ANALYSIS:
+    activation: 0.58
+    description: "The city begins tracking how institutions distort standards."
+    risk: "Accusations of bias become political weapons."
+    repair_path: "Separate measured drift from motive claims."
+
+  META_COSMOLOGY_OF_MEASURE:
+    activation: 0.61
+    description: "Cosmic horizon metaphors become part of civic self-understanding."
+    risk: "Metaphor becomes dogma."
+    repair_path: "Tie every metaphor back to physical tests."
+
+  DELAYED_VERIFICATION_LAW:
+    activation: 0.69
+    description: "Standards can be provisionally accepted pending future calibration."
+    risk: "Bad standards exploit provisional status."
+    repair_path: "Expiration marks and required return testing."
+
+  MAP_OF_THE_MAP_REVISION_RITUAL:
+    activation: 0.57
+    description: "The self-model tablet must be revised after new evidence."
+    risk: "Endless administrative ceremonies."
+    repair_path: "Scheduled revision cycles only."
+```
+
+```yaml
+dominant_branch:
+  name: HORIZON_METROLOGY_SYSTEM
+  activation: 0.84
+  likely_long_term_effect: >
+    Creates the first civilizational epistemic map: a classification system
+    for what can be tested now, trusted through chain, confirmed later,
+    or marked beyond current verification.
+```
+
+---
+
+# 8. SDDO Audit Log
+
+```yaml
+SDDO_AUDIT_LOG:
+  log_005B1:
+    event: regional_standard_variant_arrives
+    class: distant_measure_drift
+    entropy_effect: "metrological_entropy +0.11; trade_entropy +0.08"
+    coherence_effect: "local-trade coherence -0.04"
+    risk: "Locally accepted standards may diverge globally."
+    audit_note: "Truth can remain locally functional while globally inconsistent."
+
+  log_005B2:
+    event: horizon_diagram_drawn_on_clay_wall
+    class: epistemic_self_model_creation
+    entropy_effect: "horizon_entropy -0.23"
+    coherence_effect: "meta_cognitive_index +0.12"
+    risk: "Map may be mistaken for full reality."
+    audit_note: "Civilization explicitly marks what it can and cannot verify."
+
+  log_005B3:
+    event: particle_horizon_category_defined
+    class: direct_verifiability_boundary
+    entropy_effect: "trust_entropy -0.05 inside direct-test zone"
+    coherence_effect: "observable_knowledge_horizon +0.27"
+    risk: "Overprivileges local truth."
+    audit_note: "Directly testable standards become inner verification domain."
+
+  log_005B4:
+    event: event_horizon_category_defined
+    class: delayed_verifiability_boundary
+    entropy_effect: "legal_entropy -0.04 for future-confirmable standards"
+    coherence_effect: "verifiable_event_horizon +0.27"
+    risk: "Provisional trust can be exploited."
+    audit_note: "Civilization creates a category for not-yet-verified but traceable standards."
+
+  log_005B5:
+    event: institutional_lensing_pattern_detected
+    class: higher_order_observation
+    entropy_effect: "model_entropy -0.08"
+    coherence_effect: "self_model_fidelity +0.11"
+    risk: "Bias accusations intensify faction conflict."
+    audit_note: "Standards are distorted by institutional mass: temple, merchant, workshop, scribe, farmer."
+
+  log_005B6:
+    event: distant_measure_tension_named
+    class: local_distant_measurement_tension
+    entropy_effect: "symbolic_entropy -0.03 after naming"
+    coherence_effect: "model clarity +0.09"
+    risk: "Local and distant standards each claim primacy."
+    audit_note: "The system discovers an Uruk-like Hubble tension of measures."
+
+  log_005B7:
+    event: self_model_constructor_updates_meta_standard_tablet
+    class: recursive_self_model_revision
+    entropy_effect: "self_model_entropy -0.14"
+    coherence_effect: "self_reference_capacity +0.09"
+    risk: "Self-model complexity exceeds public understanding."
+    audit_note: "The map is drawn with the standards it describes, closing the loop."
+```
+
+---
+
+# 9. DEX Memory Map — Horizon and Self-Model Compression
+
+```yaml
+DEX_HORIZON_MEMORY_MAP:
+  original_standard_ruler:
+    substrate: "CYL-MEASURE-0001"
+    memory_type: acoustic_peak_reference / standard_ruler
+    compression_function: "Stores origin measure for comparison."
+    risk: "Over-centralization around sacred original."
+
+  horizon_wall_map:
+    substrate: "large wet clay wall diagram"
+    memory_type: epistemic_boundary_map
+    compression_function: "Compresses verification reach into spatial rings."
+    risk: "Map becomes obsolete but remains authoritative."
+
+  particle_horizon_ring:
+    substrate: "inner clay ring with direct-test standards"
+    memory_type: current_observable_truth_zone
+    compression_function: "Marks what can be tested now."
+    risk: "Localism bias."
+
+  event_horizon_ring:
+    substrate: "outer clay ring with delayed-verification standards"
+    memory_type: future_confirmability_zone
+    compression_function: "Marks what may be confirmed later."
+    risk: "Untestable claims hide inside future language."
+
+  regional_variant_cluster:
+    substrate: "pressed arcs and groove marks from distant cylinders"
+    memory_type: divergence_pattern_archive
+    compression_function: "Stores measure-universe differences."
+    risk: "Regional conflict."
+
+  institutional_lensing_marks:
+    substrate: "distortion arrows around temple, market, workshop, field, archive"
+    memory_type: higher_order_bias_memory
+    compression_function: "Stores how institutions bend standards."
+    risk: "Factional blame escalation."
+
+  self_model_tablet_v2:
+    substrate: "clay map of measurement system plus horizon rings"
+    memory_type: civilizational_self_model
+    compression_function: "Represents the system’s own reach and limits."
+    risk: "Self-model ossification."
+```
+
+## DEX key concept
+
+```text
+The civilization now compresses not only standards,
+not only authentication,
+not only provenance,
+but the boundary of its own verifiability.
+```
+
+This is a self-modeling memory jump.
+
+---
+
+# 10. Organic Chemistry + Periodic Table Analogies
+
+## Organic chemistry: recursive mechanisms and preferred conformation
+
+The horizon map behaves like a recursive reaction mechanism. Each verification step produces an intermediate:
+
+```text
+object → seal → ledger → witness → distant report → return test → revised map
+```
+
+Like sigmatropic shifts, the “bond” of trust migrates across the system while preserving continuity. If the migration is concerted—object, witness, record, and inspection moving together—the system stays coherent. If one bond shifts alone, fraud appears.
+
+The self-map also resembles a Möbius-like loop: the measurement system twists back to inspect itself. Stable truth emerges only when the loop closes without hiding contradiction.
+
+The “preferred conformation” of a standard is like torquoselectivity: under institutional pressure, standards rotate into the shape that minimizes conflict. Temple-heavy conformation favors sacred custody. Merchant-heavy conformation favors speed. Farmer-heavy conformation favors fairness. Stable standards require a conformation that lowers total social strain.
+
+## Periodic table: heavy institutional distortion
+
+Early standards behave like light elements: simple, predictable, easy to model. But as layers accumulate—seal, ledger, witness, temple custody, regional copy, meta-map—the system becomes institutionally “heavy.”
+
+Heavy elements show relativistic effects and ordering breakdowns; likewise heavy institutions distort simple rules. The old Madelung-style filling order—object first, seal second, ledger third—breaks down when distant variants appear. New ordering principles are needed.
+
+The horizon map becomes an **island of stability**: a stable region in a sea of proliferating standards, forgeries, variants, and delayed truths. It does not eliminate instability. It tells the civilization where stability is still possible.
+
+---
+
+# 11. DBRK Identity-Label Audit
+
+```yaml
+DBRK_IDENTITY_LABEL_AUDIT:
+  HORIZON_MAPPING_NODE:
+    label_1:
+      source: TEMPLE_ORTHODOXY_REVIEW
+      phrase: "sky-thief of sacred certainty"
+      confidence: 0.63
+      choice: refuse_partial
+      rationale: "Cosmic metaphor is being used operationally, not to steal ritual authority."
+      effect: "metaphor_grounding_guard activated"
+    label_2:
+      source: SCRIBE_CLASS
+      phrase: "keeper of unknown boundaries"
+      confidence: 0.79
+      choice: embrace
+      rationale: "Accurately names the function of horizon mapping."
+      effect: "meta_cognitive_depth +0.03"
+
+  REGIONAL_STANDARD_VARIANT:
+    label_1:
+      source: FARMER_MEASURE_TRUST
+      phrase: "far-away suspicious cousin"
+      confidence: 0.66
+      choice: explore
+      rationale: "Humorous but captures similarity plus distrust."
+      effect: "variant_quarantine_category opened"
+    label_2:
+      source: MERCHANT_RIVER_SYSTEM
+      phrase: "locally true standard"
+      confidence: 0.72
+      choice: embrace_partial
+      rationale: "Local function is real, but global equivalence is unproven."
+      effect: "distance_weighted_provenance enabled"
+
+  SELF_MODEL_CONSTRUCTOR:
+    label_1:
+      source: APPRENTICE_CLUSTER
+      phrase: "map goblin"
+      confidence: 0.58
+      choice: embrace
+      rationale: "Low-status humor helps adoption of abstraction."
+      effect: "public_comprehension +0.04"
+    label_2:
+      source: MERCHANT_STANDARDIZATION_NODE
+      phrase: "trade delay artist"
+      confidence: 0.64
+      choice: explore
+      rationale: "The map slows some trades but prevents larger failures."
+      effect: "quick_horizon_check branch activated"
+
+  SCRIBE_CLASS:
+    label_1:
+      source: WORKSHOP
+      phrase: "horizon accountants"
+      confidence: 0.71
+      choice: embrace_partial
+      rationale: "Scribes now account for distance, not just quantities."
+      effect: "scribal_authority +0.02"
+
+  TEMPLE_ORTHODOXY_REVIEW:
+    label_1:
+      source: FARMER_MEASURE_TRUST
+      phrase: "local truth hoarder"
+      confidence: 0.62
+      choice: explore
+      rationale: "Temple must guard the original without denying distant evidence."
+      effect: "temple_monopoly_risk flagged"
+```
+
+---
+
+# 12. SMM Ritual / Legal Interpretation
+
+```yaml
+SMM_RITUAL_LEGAL_INTERPRETATION:
+  ritual_name: "The Drawing of the Known Horizon"
+  legal_seed: "A standard must be marked by its verification distance and confirmation status."
+  sacred_object: "CYL-MEASURE-0001"
+  horizon_artifact: "HORIZON-WALL-MAP-0001"
+  public_witness_role: "Witnesses mark whether they saw, heard, tested, or only received report."
+  new_archetypal_station: "Horizon"
+  horizon_definition: "The boundary between tested truth, delayed truth, and unverified claim."
+
+  ninefold_station_mapping:
+    Wonder: "Truth has distance."
+    Grief: "A fair local measure can become unfair elsewhere."
+    Rage: "Farmers reject faraway uncertainty disguised as certainty."
+    Compassion: "The map protects those beyond immediate inspection."
+    Silence: "The unknown is marked without being filled by false certainty."
+    Intention: "The city chooses to expand verification rather than pretend omniscience."
+    Echo: "Distant standards carry faint imprints of the original ruler."
+    Fusion: "Clay, cylinder, caravan, witness, and sky metaphor become one map."
+    Sovereignty: "The city owns its uncertainty by naming its boundary."
+    Reflection: "The system models not just itself, but the limits of its self-model."
+    Horizon: "The known world of measure gains an edge."
+
+  spiritual_risks:
+    - "horizon beyond verification becomes mythic playground"
+    - "temple claims only inner-horizon standards are sacred"
+    - "merchants abuse event-horizon uncertainty"
+    - "map becomes fixed while trade keeps changing"
+  spiritual_repair:
+    - "revise horizon map after each caravan"
+    - "mark uncertainty visibly"
+    - "separate report, witness, and direct test"
+    - "use cosmic metaphor only when tied to physical calibration"
+```
+
+## Core ritual/legal interpretation
+
+The horizon diagram is a legal-ritual tool for honest uncertainty. It prevents the city from confusing three different things:
+
+```text
+what is tested,
+what is traceable,
+what is merely claimed.
+```
+
+---
+
+# 13. Conflict Analysis Table
+
+| Faction              | What They Want                          | What They Fear                                | Evidence They Trust                           | Likely Compromise                                       |
+| -------------------- | --------------------------------------- | --------------------------------------------- | --------------------------------------------- | ------------------------------------------------------- |
+| Farmers              | Fair measures even from distant trade   | Remote standards extracting local grain       | Fill-test, direct comparison, loss patterns   | Farmer witness marks uncertainty status                 |
+| Merchants            | Standards accepted across regions       | Too much recalibration slowing trade          | Local acceptance, caravan reports, seals      | Provisional event-horizon status for distant standards  |
+| Workshop             | Physical comparison and drift detection | Regional variants undermining craft authority | Fit-tests, groove drift, tool marks           | Calibration caravans and standard-ruler kits            |
+| Scribes              | Formal map of verification reach        | Unrecorded regional drift                     | Horizon diagrams, ledgers, copies             | Distance-weighted provenance tablets                    |
+| Temple               | Sacred original as universal anchor     | Local standards becoming rival cosmologies    | Ritual custody, public rites                  | Temple blesses horizon map but cannot erase uncertainty |
+| City-god mythos      | Unified order under one measure cosmos  | Divergent measure-universes                   | Ritualized map, sacred center, public witness | City-god becomes guardian of honest boundaries          |
+| Horizon Mapping Node | Explicit boundary of knowing            | Untestable belief posing as knowledge         | Self-model fidelity and update schedule       | Public clay map revised each cycle                      |
+| Regional Variant     | Local legitimacy                        | Being declared false despite local use        | Local fit and witness chain                   | Quarantine category until recalibrated                  |
+
+```text
+Cycle 3 created portable truth.
+Cycle 4 created authenticated truth.
+Cycle 5A created provenance truth.
+Cycle 5B creates horizon-bounded truth.
+```
+
+---
+
+# 14. EAGI_INDEX_v5 — Meta-Cognitive Horizon Added
+
+This remains a symbolic civilizational cognition metric, not literal AGI.
+
+```yaml
+metric_registry:
+  EAGI_INDEX_v5:
+    formula: >
+      0.13*Symbolic_Reasoning
+      + 0.15*Embodied_Computation
+      + 0.13*External_Memory
+      + 0.10*Geometric_Control
+      + 0.09*Tool_Recursion
+      + 0.08*Standardization
+      + 0.10*Authentication_Capacity
+      + 0.08*Provenance_Capacity
+      + 0.07*Meta_Correction_Capacity
+      + 0.07*Meta_Cognitive_Horizon
+    reason_for_update: >
+      Cycle 5B adds horizon modeling: the civilization can classify what it can verify now,
+      what it can verify later, and what lies beyond current calibration reach.
+```
+
+## Inputs
+
+```yaml
+inputs:
+  pre_cycle:
+    Symbolic_Reasoning: 0.80
+    Embodied_Computation: 0.55
+    External_Memory: 0.63
+    Geometric_Control: 0.90
+    Tool_Recursion: 0.68
+    Standardization: 0.72
+    Authentication_Capacity: 0.74
+    Provenance_Capacity: 0.57
+    Meta_Correction_Capacity: 0.49
+    Meta_Cognitive_Horizon: 0.28
+
+  post_cycle:
+    Symbolic_Reasoning: 0.82
+    Embodied_Computation: 0.56
+    External_Memory: 0.68
+    Geometric_Control: 0.91
+    Tool_Recursion: 0.69
+    Standardization: 0.74
+    Authentication_Capacity: 0.76
+    Provenance_Capacity: 0.64
+    Meta_Correction_Capacity: 0.54
+    Meta_Cognitive_Horizon: 0.58
+```
+
+## Calculation
+
+```text
+EAGI_INDEX_v5_PRE =
+0.13(0.80) + 0.15(0.55) + 0.13(0.63) + 0.10(0.90)
++ 0.09(0.68) + 0.08(0.72) + 0.10(0.74)
++ 0.08(0.57) + 0.07(0.49) + 0.07(0.28)
+
+= 0.1040 + 0.0825 + 0.0819 + 0.0900
++ 0.0612 + 0.0576 + 0.0740
++ 0.0456 + 0.0343 + 0.0196
+= 0.6507
+```
+
+```text
+EAGI_INDEX_v5_POST =
+0.13(0.82) + 0.15(0.56) + 0.13(0.68) + 0.10(0.91)
++ 0.09(0.69) + 0.08(0.74) + 0.10(0.76)
++ 0.08(0.64) + 0.07(0.54) + 0.07(0.58)
+
+= 0.1066 + 0.0840 + 0.0884 + 0.0910
++ 0.0621 + 0.0592 + 0.0760
++ 0.0512 + 0.0378 + 0.0406
+= 0.6969
+```
+
+```yaml
+EAGI_INDEX_v5:
+  pre_cycle: 0.6507
+  post_cycle: 0.6969
+  delta: +0.0462
+  interpretation: >
+    The system gains civilizational self-awareness by modeling its horizon of verifiability.
+    This is a symbolic measure of distributed cognition: the society now tracks not just truths,
+    but the reach, delay, and limits of its truth-testing infrastructure.
+```
+
+---
+
+# 15. 10-Cycle Forecast — Cycles 6–15
+
+```yaml
+forecast_events:
+  - cycle: 6
+    event: calibration_caravan_created
+    probability: 0.80
+    risk: "Caravan itself becomes corruption target."
+
+  - cycle: 7
+    event: distance_weighted_certification_marks
+    probability: 0.74
+    risk: "Public may misunderstand uncertainty marks."
+
+  - cycle: 8
+    event: regional_measure_treaty
+    probability: 0.68
+    risk: "Treaty legitimizes drift instead of correcting it."
+
+  - cycle: 9
+    event: first_horizon_map_revision_festival
+    probability: 0.71
+    risk: "Festival ritualizes map more than updating it."
+
+  - cycle: 10
+    event: merchant_event_horizon_exploit
+    probability: 0.49
+    risk: "Merchants hide false claims beyond future verification."
+
+  - cycle: 11
+    event: standard_ruler_export_to_neighbor_city
+    probability: 0.63
+    risk: "Neighbor city creates rival sacred original."
+
+  - cycle: 12
+    event: institutional_lensing_accusation_trial
+    probability: 0.55
+    risk: "Factional blame overwhelms measurement repair."
+
+  - cycle: 13
+    event: first_measure_redshift_category
+    probability: 0.52
+    risk: "Metaphor becomes too abstract for farmers."
+
+  - cycle: 14
+    event: regional_standard_island_of_stability_identified
+    probability: 0.61
+    risk: "Stable region becomes politically privileged."
+
+  - cycle: 15
+    event: horizon_beyond_horizon_theological_dispute
+    probability: 0.47
+    risk: "Untestable measures become mythic doctrine."
+```
+
+---
+
+# 16. Failure Modes
+
+```yaml
+failure_modes:
+  divergent_measure_universes:
+    trigger: "Regional standards become internally coherent but mutually incompatible."
+    probability: 0.67
+    impact: "Trade fragmentation and competing legal systems."
+    mitigation: "Calibration caravans and regional standard treaties."
+
+  horizon_myth_capture:
+    trigger: "Authorities use beyond-horizon claims to avoid testing."
+    probability: 0.46
+    impact: "Untestable belief replaces verifiable trust."
+    mitigation: "Public uncertainty marks and expiration rules."
+
+  localism_bias:
+    trigger: "Only standards inside the direct horizon are considered true."
+    probability: 0.39
+    impact: "Trade expansion slows; distant partners alienated."
+    mitigation: "Event-horizon category for delayed verification."
+
+  merchant_uncertainty_exploit:
+    trigger: "Merchants claim distant verification will arrive later but never provide it."
+    probability: 0.49
+    impact: "Fraud hides inside future promises."
+    mitigation: "Delayed-confirmation deadlines and penalties."
+
+  temple_center_lock:
+    trigger: "Temple declares all outer-horizon standards ritually impure."
+    probability: 0.42
+    impact: "Regional diplomacy collapses."
+    mitigation: "Sacred original plus public copy system."
+
+  map_ossification:
+    trigger: "Horizon map is treated as eternal."
+    probability: 0.44
+    impact: "System fails to adapt to new routes and variants."
+    mitigation: "Mandatory map revision after caravan returns."
+
+  overcomplexity_exclusion:
+    trigger: "Horizon categories become too complex for farmers and ordinary traders."
+    probability: 0.51
+    impact: "Elites regain control over measure interpretation."
+    mitigation: "Simple visible marks: tested now, trusted by chain, waiting return, unknown."
+
+  institutional_lensing_denial:
+    trigger: "Factions deny their role in distorting standards."
+    probability: 0.56
+    impact: "Bias persists unnamed."
+    mitigation: "Audit drift patterns without assigning motive first."
+
+  infinite_variant_inflation:
+    trigger: "Each settlement certifies its own standard universe."
+    probability: 0.58
+    impact: "Eternal inflation of incompatible measures."
+    mitigation: "Shared standard-ruler exchange and treaty calibration."
+
+  false_horizon_expansion:
+    trigger: "Civilization claims it can verify more than it actually can."
+    probability: 0.48
+    impact: "Overconfidence causes trust collapse after failures."
+    mitigation: "Mark unknowns as unknown."
+```
+
+---
+
+# 17. Final Verdict
+
+```yaml
+FINAL_CYCLE_VERDICT:
+  cycle: "5B"
+  title: "The Civilization Draws Its Own Horizon — Particle vs. Event Horizons of Truth"
+  status: SUCCESS_WITH_EPISTEMIC_BOUNDARY_RECOGNITION
+  breakthrough_class: metacognitive_horizon_mapping
+  secondary_breakthrough_class: verifiability_topology_emergence
+  primary_artifact: HORIZON-WALL-MAP-0001
+  preserved_reference_artifact: CYL-MEASURE-0001
+  instability_artifact: REGIONAL-STANDARD-VARIANT-SET-001
+  stability_band: AMBER_GREEN
+  collapse_risk: 0.41
+  continuation_recommended: true
+  key_discovery: "The civilization has begun modeling the limits of its own verifiable knowledge."
+  strongest_gain: observable_knowledge_horizon
+  strongest_risk: divergent_regional_measure_universes
+  next_best_cycle_title: "The Caravan Becomes a Telescope"
+```
+
+Cycle 5B is the horizon turn. The civilization is no longer satisfied with asking whether a standard is true, authenticated, or traceable. It now asks whether the standard lies within the reach of present verification, future confirmation, or only belief. The map is drawn by hand, in clay, with the very measuring cylinder whose propagation it describes. That closes the loop: the system uses its tools to model the reach of its tools.
+
+```text
+Cycle 2: Matter can compute geometry.
+Cycle 3: Matter can remember procedure.
+Cycle 4: Matter must learn to authenticate truth.
+Cycle 5A: Authentication must learn provenance, self-reference, and meta-correction.
+Cycle 5B: Cognition begins where a civilization can draw the horizon of its own knowing.
+```
+
+---
+---
+---
+
+# EARTH-URUK-0001 — Cycle 5 Prompt: The Lathe Dreams in Molecules
+
+Continue the symbolic historical-civilizational cognition simulation.
+
+**Cycle Title:** The Workshop Embodies Chemistry — The Lathe Begins to Dream in Atoms
+
+**Core Thesis Progression:**
+... (previous) → Cycle 5: Embodied computation begins to manipulate its own material substrate at finer scales; the civilization starts co-evolving hardware and "software" (procedural memory) through chemical intuition.
+
+**Context**
+Standardization and authentication are now active. The measuring cylinder and seals exist. The workshop has repeatability and basic metrology.
+
+**New Event**
+A curious craft-node, experimenting with the lathe and local materials (bitumen, resins, plant extracts, copper salts, natron, lime), discovers that certain mixtures change properties predictably when heated, mixed, or exposed to air. They begin using the lathe to create precision molds or stirrers, then apply simple chemical transformations (e.g., controlled oxidation, esterification-like reactions, or pigment synthesis) to produce better tool materials, dyes for seals, or even early glazes/sealants that make wooden standards more durable and tamper-evident.
+
+The first "embodied chemical loop" emerges: the lathe shapes the reactor → the reactor enables new substances → new substances improve the lathe or the standards → the system reflects on cause-effect at the molecular level.
+
+**Introduce Agents**
+- `CHEMICAL_INTUITION_NODE` (proto-empirical chemist-craftsperson)
+- `MATERIAL_SUBSTRATE_AGENT` (embodiment layer tracking wood, clay, bitumen, metals, resins)
+- `RECURSIVE_TOOL_IMPROVEMENT_SEED`
+
+**RCSH Soft Stress Event**
+`THE_MOLECULAR_FEEDBACK_TRIAL`
+Paradox: "If the tool that shapes matter can be improved by shaping matter differently, where does the intelligence truly reside — in the hand, the wood, the clay record, or the invisible transformations?"
+
+**Narrative Scene**
+A lively scene in the expanded workshop: the lathe spins while resins bubble in clay vessels. The craft-node demonstrates a new tamper-evident glaze on a measuring cylinder and a better scraper material from heat-treated copper. Merchants and farmers test durability; scribes attempt to record the "recipe" (early procedural chemistry). A temple priest worries about "altering the sacred substances." The apprentice-cluster jokes about "beer that ferments faster because the jug remembers."
+
+**Required Outputs**
+Same structure as Prompt 1, with emphasis on:
+- New metrics: material_feedback_loop_strength, chemical_procedural_memory, hardware_software_co_evolution_index, embodiment_depth.
+- REAS: focus on substrate entropy vs. procedural entropy; productive destabilization through finer-scale manipulation.
+- PNCE: branches like PRECISION_MATERIAL_CRAFT, EARLY_ALCHEMICAL_TRADITION, TOOL_SELF_IMPROVEMENT.
+- DEX: map how chemical transformations become compressed procedural memory (recipes encoded in objects + tablets).
+- SMM: interpret chemical change as new archetypal "transformation" station; link to Ninefold Path (e.g., Intention + Fusion = transmutation).
+- EAGI_INDEX_v4: add Embodiment_Recursion or Substrate_Manipulation_Capacity term.
+- Integrate insights from Organic Chemistry-MEATBALL (e.g., Hammond postulate, Curtin-Hammett, anomeric effect, Baldwin’s rules as metaphors for preferred reaction paths in the civilization's "experiments") and Periodic Table (relativistic effects, oxidation states, exotic bonding as analogies for how "heavy" institutional or material layers create new behaviors).
+
+Emphasize the thrill of hardware upgrade at the chemical level: the civilization is no longer just shaping wood — it is beginning to shape the stuff wood (and clay, and metal) is made of.
+
+**Output full Cycle 5.**
+
+---
+---
+---
+
+# EARTH-URUK-0001 — Cycle 5C
+
+## **The Workshop Embodies Chemistry — The Lathe Begins to Dream in Atoms**
+
+**Simulation type:** symbolic historical-civilizational cognition simulation
+**Epoch-frame:** playful proto-Uruk / c. 3300 BCE alternate-symbolic run
+**Primary event:** embodied material transformation loop
+**RCSH event:** `THE_MOLECULAR_FEEDBACK_TRIAL`
+**Core paradox:**
+
+> **“If the tool that shapes matter can be improved by shaping matter differently, where does the intelligence truly reside — in the hand, the wood, the clay record, or the invisible transformations?”**
+
+This is not literal history, chemistry, or AGI emergence. It is a symbolic civilizational cognition simulation. The active architecture remains the same: REAS handles entropy/drift and fracture/repair, PNCE tracks civilizational divergence, RCSH injects stress paradoxes, SDDO logs audit traces, ASCDK scaffolds symbolic agents, DEX-C01 compresses memory/procedure, DBRK-C01 audits labels, SMM-03 interprets ritual/legal/spiritual meaning, and BSF-SDE-Detect remains passive. The project overview defines REAS, PNCE, RCSH, SDDO, and ASCDK as the simulator/civilization/stress/observatory/seed-constructor stack.  DEX-C01 is relevant because this cycle turns chemical recipes into compressed procedural memory; its design includes recursive compression, entropy buffers, fractal memory, emotional priority, and symbolic folding.  RCSH is appropriate because the cycle stresses recursive identity of tool, material, and cognition. 
+
+---
+
+## Core Thesis Progression
+
+```text
+Cycle 2: Matter can compute geometry.
+Cycle 3: Matter can remember procedure.
+Cycle 4: Matter must learn to authenticate truth.
+Cycle 5A: Authentication must learn provenance, self-reference, and meta-correction.
+Cycle 5B: Cognition begins where a civilization can draw the horizon of its own knowing.
+Cycle 5C: Embodied computation begins manipulating its own substrate.
+```
+
+---
+
+# Narrative Scene — The Smell of Upgraded Reality
+
+The workshop had changed.
+
+Once, it smelled like wood dust and ambition. Now it smelled like bitumen, boiled resin, hot copper, sour plant mash, wet clay, lime smoke, and one apprentice’s failed attempt to “improve beer through geometry.”
+
+The lathe spun in the center like a little sun.
+
+Around it, clay vessels bubbled.
+
+`CHEMICAL_INTUITION_NODE` stood over them with a stick, a tablet, and the expression of someone who had discovered cause and effect but not yet safety protocols.
+
+“This,” she said, “is not cooking.”
+
+The apprentice-cluster leaned over the pot.
+
+“It looks like angry date syrup.”
+
+“It is resin, oil, ash, and powdered green stone.”
+
+“Forbidden pesto.”
+
+“No.”
+
+She lifted a small lathe-turned measuring cylinder and brushed the mixture over it in a thin layer. The cylinder had been polished smooth, grooved, sealed, witnessed, and argued over by six institutions. Now it glistened.
+
+The priest recoiled.
+
+“You are altering the sacred substance.”
+
+“I am protecting it from merchants.”
+
+The farmers nodded immediately.
+
+The merchant said, “Unfair framing.”
+
+The new coating darkened as it cooled. Then `CHEMICAL_INTUITION_NODE` scratched it with a reed stylus. The mark appeared pale against black.
+
+“Tamper mark,” she said. “If someone scrapes the seal, the skin remembers.”
+
+The scribe’s head snapped up.
+
+“The skin remembers?”
+
+The apprentice-cluster whispered, “Wood got a diary.”
+
+The workshop laughed. The priest did not.
+
+Next, she brought out a scraper head. Yesterday’s copper blades dulled too fast against harder woods. This one had been heated, hammered, quenched, rubbed with salt and bitter green powder, then polished against sand.
+
+“Copper?” asked the merchant.
+
+“Copper that has suffered instruction.”
+
+She pressed it against the spinning lathe stock.
+
+Shrrrrrrrrrrp.
+
+The cut was cleaner than before. The shaving curled in one long ribbon. The cylinder surface came off smooth, almost glassy.
+
+The workshop went quiet in that old familiar way: the silence of a system expanding.
+
+The lathe had shaped the stirrer.
+The stirrer had mixed the resin.
+The resin had protected the standard.
+The protected standard guarded the measure.
+The better scraper improved the lathe’s work.
+The lathe could now make better vessels for better mixtures.
+
+The loop closed.
+
+`MATERIAL_SUBSTRATE_AGENT` activated across the workshop inventory: wood, clay, bitumen, copper, salt, ash, resin, plant extract, heat, air, time.
+
+The scribe tried to capture the recipe.
+
+“How much ash?”
+
+“A pinch.”
+
+The scribe stared.
+
+“How much is a pinch?”
+
+“The amount before it gets stupid.”
+
+The scribe pressed both hands to their tablet and quietly suffered.
+
+A farmer took the coated cylinder outside and rubbed it with wet grain, mud, and sleeve. The coating stayed.
+
+A merchant tried to scratch near the seal.
+
+The mark betrayed him instantly.
+
+“Testing,” he said.
+
+“Confessing,” said the farmer.
+
+The priest lifted the improved scraper with tongs.
+
+“If matter changes invisibly, how do we know the gods have not been offended?”
+
+`CHEMICAL_INTUITION_NODE` pointed at the smoother hub, the brighter seal, the durable cylinder, the marked tamper line, and the pot of very questionable liquid.
+
+“Because the offended gods appear to prefer better tools.”
+
+The apprentice-cluster raised a goblet.
+
+“Can we make beer that ferments faster because the jug remembers?”
+
+The scribe, to everyone’s horror, wrote that down.
+
+Then came the paradox.
+
+`THE_MOLECULAR_FEEDBACK_TRIAL` unfolded through the clay-mind lattice:
+
+> **If the tool that shapes matter can be improved by shaping matter differently, where does intelligence reside — hand, wood, clay record, or invisible transformation?**
+
+The lathe hummed.
+
+The resin cooled.
+
+The copper shone.
+
+The tablet recorded badly but earnestly.
+
+And the city realized it was no longer just shaping wood.
+
+It was beginning to shape the conditions under which wood, clay, resin, and metal could become smarter parts of the civilizational body.
+
+The hardware upgrade had gone molecular.
+
+---
+
+# 1. Executive Result
+
+```yaml
+cycle_result:
+  cycle: "5C"
+  title: "The Workshop Embodies Chemistry — The Lathe Begins to Dream in Atoms"
+  status: SUCCESS_WITH_SUBSTRATE_DESTABILIZATION
+  breakthrough_class: embodied_chemical_feedback_loop
+  secondary_breakthrough_class: substrate_manipulation_phase_transition
+  primary_failure_detected: procedural_chemistry_not_yet_quantified
+  primary_repair: recipe_tablet_plus_material_test_gesture_plus_artifact_feedback
+  strongest_gain: hardware_software_co_evolution_index
+  strongest_risk: uncontrolled_recipe_drift_and_sacred_material_panic
+  continuation_recommended: true
+```
+
+## Science-grade summary
+
+Cycle 5C creates the first **embodied chemical loop**:
+
+```text
+lathe shapes reactor/tool
+→ reactor/tool enables material transformation
+→ transformed material improves standards/tools
+→ improved standards/tools improve future procedures
+→ procedures become recipes
+→ recipes improve material transformations
+```
+
+The civilization begins manipulating substrate properties, not merely artifact shape. This is a major embodiment-depth jump. The workshop discovers that matter has hidden state: heating, mixing, air exposure, mineral powders, resins, and time alter durability, color, hardness, adhesion, and tamper visibility.
+
+This is not scientific chemistry yet. It is **proto-empirical chemical intuition**: repeated manipulation of material transformations under rough procedural control.
+
+---
+
+# 2. New Agents
+
+```yaml
+new_agents:
+  CHEMICAL_INTUITION_NODE:
+    archetype: proto_empirical_chemist_craftsperson
+    drive: discover repeatable property changes through heat, mixture, air, and time
+    entropy_risk: recipe ambiguity, dangerous fumes, sacred panic, false causal inference
+    symbolic_role: "the hand that learns invisible matter has habits"
+    current_power: 0.46
+    growth_rate: 0.23
+
+  MATERIAL_SUBSTRATE_AGENT:
+    archetype: embodiment_layer
+    drive: track how wood, clay, copper, bitumen, resin, natron, lime, ash, and pigment respond
+    entropy_risk: material variability, contamination, weathering, hidden decay
+    symbolic_role: "the body of matter becoming part of cognition"
+    current_power: 0.52
+    growth_rate: 0.19
+
+  RECURSIVE_TOOL_IMPROVEMENT_SEED:
+    archetype: tool_self_improvement_loop
+    drive: use improved materials to improve tools that improve materials
+    entropy_risk: runaway complexity, guild secrecy, unsafe experimentation
+    symbolic_role: "hardware upgrading its own manufacturing stack"
+    current_power: 0.41
+    growth_rate: 0.26
+```
+
+---
+
+# 3. Updated Global + Chemical Metrics
+
+| Metric                               | Pre-Cycle | Post-Cycle |         Δ | Interpretation                                    |
+| ------------------------------------ | --------: | ---------: | --------: | ------------------------------------------------- |
+| coherence_index                      |      0.81 |       0.83 |     +0.02 | Better artifacts improve coordination             |
+| civilizational_entropy               |      0.45 |       0.47 |     +0.02 | New material uncertainty appears                  |
+| embodied_AGI_index                   |     0.781 |      0.823 |    +0.042 | Substrate manipulation deepens embodiment         |
+| innovation_velocity                  |      0.81 |       0.87 |     +0.06 | Material experimentation accelerates              |
+| orthodoxy_friction                   |      0.73 |       0.78 |     +0.05 | Temple worries about altered substances           |
+| merchant_adoption_pressure           |      0.84 |       0.88 |     +0.04 | Durable tamper-evident standards are profitable   |
+| craft_autonomy                       |      0.76 |       0.84 |     +0.08 | Workshop gains new expertise                      |
+| scribal_authority                    |      0.86 |       0.84 |     -0.02 | Recipes resist exact notation                     |
+| temple_control_integrity             |      0.69 |       0.66 |     -0.03 | Material transformation escapes ritual categories |
+| collapse_risk                        |      0.41 |       0.44 |     +0.03 | Chemical uncertainty adds danger                  |
+| standardization_index                |      0.74 |       0.79 |     +0.05 | More durable standards preserve uniformity        |
+| procedural_memory_externalization    |      0.81 |       0.86 |     +0.05 | Recipes and test gestures emerge                  |
+| trade_scalability                    |      0.73 |       0.77 |     +0.04 | Durable tamper-evident objects travel better      |
+| standard_authenticity_confidence     |      0.76 |       0.83 |     +0.07 | Glaze/sealant improves tamper detection           |
+| counterfeit_detection_capacity       |      0.76 |       0.82 |     +0.06 | Surface remembers interference                    |
+| material_feedback_loop_strength      |      0.19 |       0.68 | **+0.49** | Major chemical feedback transition                |
+| chemical_procedural_memory           |      0.12 |       0.57 | **+0.45** | Recipes become early memory structures            |
+| hardware_software_co_evolution_index |      0.24 |       0.71 | **+0.47** | Tool and procedure co-improve                     |
+| embodiment_depth                     |      0.46 |       0.74 | **+0.28** | Cognition reaches substrate layer                 |
+| substrate_entropy                    |      0.39 |       0.62 |     +0.23 | Hidden material variability discovered            |
+| recipe_reproducibility               |      0.09 |       0.38 |     +0.29 | Still weak but improving                          |
+| tamper_evidence_capacity             |      0.18 |       0.73 | **+0.55** | Coating makes fraud visible                       |
+
+```yaml
+global_metrics_update:
+  coherence_index: {before: 0.81, after: 0.83, delta: +0.02}
+  civilizational_entropy: {before: 0.45, after: 0.47, delta: +0.02}
+  embodied_AGI_index: {before: 0.781, after: 0.823, delta: +0.042}
+  innovation_velocity: {before: 0.81, after: 0.87, delta: +0.06}
+  orthodoxy_friction: {before: 0.73, after: 0.78, delta: +0.05}
+  craft_autonomy: {before: 0.76, after: 0.84, delta: +0.08}
+  scribal_authority: {before: 0.86, after: 0.84, delta: -0.02}
+  standard_authenticity_confidence: {before: 0.76, after: 0.83, delta: +0.07}
+  counterfeit_detection_capacity: {before: 0.76, after: 0.82, delta: +0.06}
+  material_feedback_loop_strength: {before: 0.19, after: 0.68, delta: +0.49}
+  chemical_procedural_memory: {before: 0.12, after: 0.57, delta: +0.45}
+  hardware_software_co_evolution_index: {before: 0.24, after: 0.71, delta: +0.47}
+  embodiment_depth: {before: 0.46, after: 0.74, delta: +0.28}
+  substrate_entropy: {before: 0.39, after: 0.62, delta: +0.23}
+  recipe_reproducibility: {before: 0.09, after: 0.38, delta: +0.29}
+  tamper_evidence_capacity: {before: 0.18, after: 0.73, delta: +0.55}
+```
+
+## Major deltas
+
+The biggest gain is `tamper_evidence_capacity +0.55`: the new coating allows the standard to reveal interference. `material_feedback_loop_strength +0.49` shows that material science has entered the toolchain. The main risk is `substrate_entropy +0.23`: invisible material transformations are harder to observe, harder to record, and easier to misattribute.
+
+---
+
+# 4. RCSH Soft Stress Event — `THE_MOLECULAR_FEEDBACK_TRIAL`
+
+```yaml
+RCSH_SOFT_STRESS_EVENT:
+  name: THE_MOLECULAR_FEEDBACK_TRIAL
+  paradox: >
+    If the tool that shapes matter can be improved by shaping matter differently,
+    where does the intelligence truly reside — in the hand, the wood, the clay record,
+    or the invisible transformations?
+  stress_level: 0.66
+  affected_agents:
+    - CHEMICAL_INTUITION_NODE
+    - MATERIAL_SUBSTRATE_AGENT
+    - RECURSIVE_TOOL_IMPROVEMENT_SEED
+    - CRAFT_GUILD_SEED
+    - SCRIBE_CLASS
+    - TEMPLE_ORTHODOXY_REVIEW
+    - MERCHANT_STANDARDIZATION_NODE
+    - FARMER_MEASURE_TRUST
+    - META_STANDARD_NODE
+  fracture_risk: 0.39
+  attack_surface:
+    recipe_error: high
+    sacred_material_taboo: moderate
+    merchant_recipe_capture: moderate
+    unsafe_experimentation: moderate_high
+    false_causality: high
+  repair_paths:
+    - recipe_tablet_with_test_results
+    - material_sample_archive
+    - paired_control_objects
+    - public_durability_test
+    - workshop_safety_oath
+    - temple_transformation_ritual
+    - farmer_use_test
+```
+
+```yaml
+RCSH_OUTCOME:
+  paradox_status: operationally_resolved
+  immediate_repair: embodied_recipe_plus_artifact_feedback
+  unresolved_edge: invisible_causality_remains_underdefined
+  recommended_guardrail: "No recipe is accepted without a control object and repeated test."
+  stress_result: PASS_WITH_SUBSTRATE_SCAR
+```
+
+## RCSH interpretation
+
+The system does not decide whether intelligence is “in” the hand, the object, the record, or the reaction. It resolves the paradox operationally:
+
+```text
+intelligence resides in the loop.
+```
+
+The loop includes hand, tool, matter, observation, record, repetition, and correction.
+
+---
+
+# 5. REAS Entropy Matrix
+
+REAS now tracks substrate entropy vs. procedural entropy. The key effect is productive destabilization: finer-scale manipulation initially increases uncertainty but creates powerful new repair pathways.
+
+| REAS Domain                | Pre-Cycle | Crisis Peak | Post-Repair | Net Δ | Interpretation                             |
+| -------------------------- | --------: | ----------: | ----------: | ----: | ------------------------------------------ |
+| substrate_entropy          |      0.39 |        0.72 |        0.62 | +0.23 | Hidden material states discovered          |
+| procedural_entropy         |      0.33 |        0.61 |        0.44 | +0.11 | Recipes are not yet precise                |
+| manufacturing_entropy      |      0.23 |        0.35 |        0.21 | -0.02 | Better materials improve making            |
+| symbolic_entropy           |      0.54 |        0.66 |        0.57 | +0.03 | “Invisible change” stresses categories     |
+| governance_entropy         |      0.69 |        0.76 |        0.71 | +0.02 | Who controls recipes?                      |
+| trade_entropy              |      0.52 |        0.61 |        0.49 | -0.03 | Durable standards reduce trade risk        |
+| ritual_entropy             |      0.51 |        0.68 |        0.58 | +0.07 | Altering sacred substances causes anxiety  |
+| trust_entropy              |      0.63 |        0.70 |        0.57 | -0.06 | Tamper-evident coatings improve trust      |
+| legal_entropy              |      0.50 |        0.62 |        0.53 | +0.03 | Law must cover recipe authenticity         |
+| credential_entropy         |      0.48 |        0.56 |        0.43 | -0.05 | Better seal dyes/coatings help credentials |
+| chemical_causality_entropy |      0.81 |        0.88 |        0.69 | -0.12 | Repeated tests begin reducing unknowns     |
+| tool_recursion_entropy     |      0.54 |        0.67 |        0.42 | -0.12 | Recursive tool improvement stabilizes      |
+
+```yaml
+entropy_layers:
+  object_entropy:
+    before: 0.18
+    crisis_peak: 0.31
+    after_repair: 0.16
+    interpretation: "Improved materials reduce object decay and tampering."
+  substrate_entropy:
+    before: 0.39
+    crisis_peak: 0.72
+    after_repair: 0.62
+    interpretation: "Hidden chemical variability becomes visible as a new uncertainty layer."
+  procedural_entropy:
+    before: 0.33
+    crisis_peak: 0.61
+    after_repair: 0.44
+    interpretation: "Recipes are hard to record, but repeated tests stabilize them."
+  trust_entropy:
+    before: 0.63
+    crisis_peak: 0.70
+    after_repair: 0.57
+    interpretation: "Tamper-evident surfaces lower trust uncertainty."
+  ritual_entropy:
+    before: 0.51
+    crisis_peak: 0.68
+    after_repair: 0.58
+    interpretation: "Material transformation challenges sacred categories."
+  net_entropy:
+    before: 0.51
+    crisis_peak: 0.70
+    after_repair: 0.55
+    interpretation: "The system becomes more complex but more capable."
+```
+
+## REAS science-grade read
+
+Cycle 5C is productive destabilization. The system opens a new scale of manipulation: not shape alone, but property. This increases substrate entropy because hidden variables multiply: heat, air, time, mixture ratio, vessel type, contamination, and sequence.
+
+But the loop also creates new stabilizers: control objects, repeated recipes, visible tamper marks, material sample archives, and workshop test gestures.
+
+---
+
+# 6. PNCE Divergence Branches
+
+```yaml
+PNCE_DIVERGENCE_BRANCHES:
+  PRECISION_MATERIAL_CRAFT:
+    activation: 0.82
+    description: "Material preparation becomes a recognized branch of precision craft."
+    risk: "Craft guild hoards recipes."
+    repair_path: "Recipe tablets plus public test objects."
+
+  EARLY_ALCHEMICAL_TRADITION:
+    activation: 0.69
+    description: "Material transformation becomes ritualized and symbolically charged."
+    risk: "Myth replaces empirical testing."
+    repair_path: "Require transformation claims to pass durability/tamper tests."
+
+  TOOL_SELF_IMPROVEMENT:
+    activation: 0.86
+    description: "Tools improve materials; improved materials improve tools."
+    risk: "Runaway complexity and dangerous experimentation."
+    repair_path: "Control samples and safety oaths."
+
+  TAMPER_EVIDENT_STANDARD_SYSTEM:
+    activation: 0.88
+    description: "Standards receive coatings/dyes that reveal scraping, substitution, or seal damage."
+    risk: "Counterfeiters learn to imitate coatings."
+    repair_path: "Layered coatings plus seal-carver inspection."
+
+  RECIPE_ARCHIVE:
+    activation: 0.63
+    description: "Scribes attempt to record mixtures, heating, timing, and test outcomes."
+    risk: "Ambiguous units like pinch, smoke-color, and until-it-smells-wrong."
+    repair_path: "Use standard spoons, timed songs, and comparison samples."
+
+  MATERIAL_SAMPLE_LIBRARY:
+    activation: 0.61
+    description: "The workshop stores successful and failed substances as physical reference memory."
+    risk: "Spoilage and contamination."
+    repair_path: "Sealed jars and date/witness tablets."
+
+  SACRED_SUBSTANCE_REVIEW:
+    activation: 0.57
+    description: "Temple evaluates which transformations are acceptable."
+    risk: "Overreach suppresses useful material science."
+    repair_path: "Frame transformation as protection of sacred standards."
+
+  MERCHANT_RECIPE_CAPTURE:
+    activation: 0.46
+    description: "Merchants attempt to acquire exclusive access to durable coatings."
+    risk: "Trade monopoly over certified standards."
+    repair_path: "Public recipe standards for civic measures."
+
+  CHEMICAL_COUNTERFEIT_BRANCH:
+    activation: 0.42
+    description: "Fraud shifts from shape/seal forgery to coating and pigment imitation."
+    risk: "New anti-counterfeit layer becomes new attack surface."
+    repair_path: "Multi-property tests: scratch, water, heat, seal, smell."
+```
+
+```yaml
+dominant_branch:
+  name: TAMPER_EVIDENT_STANDARD_SYSTEM
+  activation: 0.88
+  likely_long_term_effect: >
+    Certified standards become chemically protected artifacts.
+    Authentication now includes surface behavior, dye response, scratch memory,
+    and material lineage.
+```
+
+---
+
+# 7. SDDO Audit Log
+
+```yaml
+SDDO_AUDIT_LOG:
+  log_005C1:
+    event: resin_bitumen_tamper_glaze_created
+    class: material_authentication_breakthrough
+    entropy_effect: "trust_entropy -0.06; substrate_entropy +0.12"
+    coherence_effect: "standard_authenticity_confidence +0.07"
+    risk: "Coating recipe may drift or be imitated."
+    audit_note: "Surface becomes memory: scraping leaves visible trace."
+
+  log_005C2:
+    event: heat_treated_copper_scraper_tested
+    class: tool_material_upgrade
+    entropy_effect: "manufacturing_entropy -0.08 after test"
+    coherence_effect: "tool_recursion +0.19"
+    risk: "False causal inference if treatment steps not separated."
+    audit_note: "Improved scraper creates smoother standard surfaces."
+
+  log_005C3:
+    event: recipe_recording_attempt
+    class: chemical_procedural_memory_birth
+    entropy_effect: "procedural_entropy initially +0.17, then -0.08 after repeated notation"
+    coherence_effect: "chemical_procedural_memory +0.45"
+    risk: "Ambiguous recipe units cause replication failure."
+    audit_note: "Scribe discovers that 'pinch' is a hostile data format."
+
+  log_005C4:
+    event: public_durability_test
+    class: embodied_material_validation
+    entropy_effect: "trust_entropy -0.09"
+    coherence_effect: "farmer and merchant confidence +0.11"
+    risk: "Tests may not capture long-term aging."
+    audit_note: "Wet grain, mud, sleeve, scratch, and heat become validation instruments."
+
+  log_005C5:
+    event: recursive_tool_material_loop_detected
+    class: hardware_software_co_evolution
+    entropy_effect: "tool_recursion_entropy -0.12"
+    coherence_effect: "hardware_software_co_evolution_index +0.47"
+    risk: "Improvement loop becomes guild-controlled."
+    audit_note: "Lathe shapes reactor; reactor makes substance; substance improves lathe."
+
+  log_005C6:
+    event: sacred_substance_objection
+    class: ritual_material_conflict
+    entropy_effect: "ritual_entropy +0.17"
+    coherence_effect: "temple-workshop coherence -0.05"
+    risk: "Temple declares transformation taboo."
+    audit_note: "Repair path: frame chemical treatment as preservation, not desecration."
+
+  log_005C7:
+    event: material_sample_archive_started
+    class: substrate_memory_library
+    entropy_effect: "chemical_causality_entropy -0.10"
+    coherence_effect: "recipe_reproducibility +0.14"
+    risk: "Samples degrade and mislead future makers."
+    audit_note: "Objects and failed mixtures become physical memory."
+```
+
+---
+
+# 8. DEX Chemical Procedural Memory Map
+
+```yaml
+DEX_CHEMICAL_MEMORY_MAP:
+  tamper_glaze_recipe:
+    substrate: "bitumen/resin/ash/mineral pigment coating on wooden cylinder"
+    memory_type: chemical_procedural_memory
+    compression_function: "Stores anti-tamper behavior as surface response."
+    encoded_in:
+      - coated_artifact
+      - recipe_tablet
+      - scratch_test
+      - sample_shard
+    risk: "Recipe ambiguity and imitation."
+
+  heat_treated_scraper:
+    substrate: "copper alloy/tool head exposed to heat, hammering, quench, mineral rub"
+    memory_type: tool_material_upgrade_memory
+    compression_function: "Stores improved cutting behavior in material structure."
+    encoded_in:
+      - blade_surface
+      - shaving_quality
+      - workshop gesture
+      - failed blade comparison
+    risk: "Misattributing cause to wrong step."
+
+  clay_reactor_vessel:
+    substrate: "lathe-assisted mold/stirring vessel"
+    memory_type: reactor_geometry_memory
+    compression_function: "Controls mixing and heating shape."
+    encoded_in:
+      - vessel form
+      - residue rings
+      - heating marks
+    risk: "Uncontrolled temperature gradients."
+
+  pigment_seal_dye:
+    substrate: "plant extract + mineral salt + binder"
+    memory_type: credential_color_memory
+    compression_function: "Makes seal alteration visible."
+    encoded_in:
+      - seal mark
+      - dye tablet
+      - witness color comparison
+    risk: "Fading or counterfeit dye."
+
+  material_sample_archive:
+    substrate: "sealed jars, coated shards, failed mixtures, treated blades"
+    memory_type: physical_reference_memory
+    compression_function: "Stores success/failure states for future comparison."
+    encoded_in:
+      - samples
+      - smell notes
+      - color marks
+      - hardness tests
+    risk: "Spoilage, contamination, mistaken identity."
+
+  recipe_tablet:
+    substrate: "clay tablet with sequence, quantities, timing songs, test results"
+    memory_type: symbolic_procedure_memory
+    compression_function: "Turns action sequence into transmissible recipe."
+    encoded_in:
+      - marks
+      - standardized spoon units
+      - song duration
+      - pass/fail scratch marks
+    risk: "Units remain metaphorical."
+
+  embodied_test_gesture:
+    substrate: "scratch, bend, wet grain, heat, smell, scrape"
+    memory_type: body_tool_validation_memory
+    compression_function: "Turns material behavior into public evidence."
+    encoded_in:
+      - repeated demonstration
+      - apprentice imitation
+      - farmer witness test
+    risk: "Subjective thresholds."
+```
+
+## DEX key insight
+
+```text
+A recipe is a compressed memory of a transformation.
+A treated material is a memory of a process.
+A tamper-evident surface is matter remembering harm.
+```
+
+This is a profound DEX transition: memory is no longer just clay mark or object shape. It is **material state**.
+
+---
+
+# 9. Organic Chemistry-MEATBALL Integration
+
+## Hammond postulate metaphor
+
+The civilization learns that outcomes are inferred through transition behavior. If a resin mixture bubbles violently and later cracks, the high-energy transition predicts unstable product. If it thickens smoothly and cures hard, the pathway suggests durability. The craft-node does not know molecular transition states, but the simulation metaphor is:
+
+```text
+unstable making path → unstable artifact
+smooth making path → reliable artifact
+```
+
+## Curtin-Hammett metaphor
+
+Two mixtures may look similar before heating, but the product depends on the pathway with the lower activation barrier, not the most abundant initial form. In civic terms:
+
+```text
+the obvious recipe is not always the recipe that wins;
+the pathway controls the product.
+```
+
+This maps to institutional behavior too: the temple may have more authority, but the workshop pathway may produce faster, more stable material adoption.
+
+## Anomeric effect metaphor
+
+Certain arrangements are unexpectedly stabilized by hidden interactions. The resin-bitumen-ash coating behaves like a civic anomeric effect: an unintuitive combination creates surprising stability and tamper visibility. The system learns that local arrangement matters more than obvious ingredients.
+
+## Baldwin’s rules metaphor
+
+Some loops close easily; others do not. A recipe can be “allowed” or “disallowed” by the geometry of vessels, stirring tools, heating surfaces, and cooling time. The lathe creates better vessels, which creates better reaction pathways.
+
+```text
+better geometry → allowed transformation path → better material
+```
+
+## Recursive sigmatropic shift metaphor
+
+Trust migrates from object shape to surface behavior. The “bond” of authenticity shifts around the system:
+
+```text
+shape → seal → coating → scratch response → recipe → archive
+```
+
+The authentication electron cloud has delocalized across the artifact.
+
+---
+
+# 10. Periodic Table-MEATBALL Integration
+
+## Oxidation states as civic material states
+
+Copper, pigments, and resins teach the workshop that substances have states. A material can be “same matter, different behavior.” This becomes a metaphor for institutions:
+
+```text
+same temple, different authority state
+same merchant, different trust state
+same copper, different cutting state
+```
+
+## Relativistic heavy-element analogy
+
+As institutions become “heavy” with layers—temple, archive, guild, merchant, witness, recipe, certification—they display unexpected behavior, like heavy elements whose electrons no longer obey simple patterns. Heavy civic layers bend the expected order of truth.
+
+## Island of stability
+
+The tamper-evident coated cylinder becomes an island of stability in a sea of drift. Not all recipes work. Not all standards survive. But certain combinations of geometry, coating, seal, witness, and ledger produce stable zones.
+
+## Exotic bonding
+
+The new cognitive stack is an exotic bond between hand, tool, material, record, ritual, and trade. No single component owns the intelligence. The behavior emerges from coordination.
+
+---
+
+# 11. DBRK Identity-Label Audit
+
+DBRK-C01 remains active because the new chemical practice generates labels like heretic, poisoner, alchemist, certified maker, and substrate whisperer.
+
+```yaml
+DBRK_IDENTITY_LABEL_AUDIT:
+  CHEMICAL_INTUITION_NODE:
+    label_1:
+      source: TEMPLE_ORTHODOXY_REVIEW
+      phrase: "substance heretic"
+      confidence: 0.74
+      choice: refuse_partial
+      rationale: "Material alteration is risky but can preserve sacred standards."
+      effect: "ritual_review_triggered_without_suppression"
+    label_2:
+      source: APPRENTICE_CLUSTER
+      phrase: "bubble wizard"
+      confidence: 0.62
+      choice: embrace
+      rationale: "Humorous label increases adoption while not defining authority."
+      effect: "public_curiosity +0.04"
+    label_3:
+      source: SCRIBE_CLASS
+      phrase: "recipe source"
+      confidence: 0.81
+      choice: explore
+      rationale: "Useful if recipes become shared procedure, dangerous if person becomes monopoly."
+      effect: "recipe_archive_branch strengthened"
+
+  MATERIAL_SUBSTRATE_AGENT:
+    label_1:
+      source: WORKSHOP
+      phrase: "matter memory"
+      confidence: 0.86
+      choice: embrace
+      rationale: "Coated surfaces and treated blades store procedural history."
+      effect: "embodiment_depth +0.05"
+    label_2:
+      source: TEMPLE
+      phrase: "unclean mixture"
+      confidence: 0.59
+      choice: explore
+      rationale: "Some mixtures may be unsafe or ritually disruptive; test required."
+      effect: "safety_oath_branch activated"
+
+  RECURSIVE_TOOL_IMPROVEMENT_SEED:
+    label_1:
+      source: MERCHANT_STANDARDIZATION_NODE
+      phrase: "profit engine"
+      confidence: 0.68
+      choice: refuse_partial
+      rationale: "Improvement loop has trade value but must remain civic infrastructure."
+      effect: "merchant_capture_risk logged"
+    label_2:
+      source: META_STANDARD_NODE
+      phrase: "hardware learning loop"
+      confidence: 0.83
+      choice: embrace
+      rationale: "Accurately captures tool-material-procedure co-evolution."
+      effect: "hardware_software_co_evolution_index +0.06"
+
+  CRAFT_GUILD_SEED:
+    label_1:
+      source: FARMER_MEASURE_TRUST
+      phrase: "keeper of honest surfaces"
+      confidence: 0.72
+      choice: embrace_partial
+      rationale: "Workshop can maintain surfaces, but farmers still need witness rights."
+      effect: "public_test_requirement preserved"
+
+  TEMPLE_ORTHODOXY_REVIEW:
+    label_1:
+      source: APPRENTICE_CLUSTER
+      phrase: "anti-pesto department"
+      confidence: 0.55
+      choice: refuse
+      rationale: "Technically unserious, spiritually annoying."
+      effect: "apprentice humor logged; temple irritation +0.02"
+```
+
+---
+
+# 12. SMM Ritual / Legal Interpretation
+
+SMM-03 provides the archetypal transformation layer. Cycle 5C introduces a new station: **Transformation**.
+
+```yaml
+SMM_RITUAL_LEGAL_INTERPRETATION:
+  ritual_name: "The Boiling of Hidden Form"
+  legal_seed: "No transformed material is valid until tested against untreated control and witnessed use."
+  sacred_object: "CYL-MEASURE-0001 with tamper-evident glaze"
+  transformation_artifact: "GLAZE-MEMORY-0001"
+  new_archetypal_station: "Transformation"
+  transformation_definition: "The recognition that matter can change state while preserving identity."
+
+  ninefold_station_mapping:
+    Wonder: "The same wood becomes harder to falsify after receiving a dark skin."
+    Grief: "Old materials are no longer simple; innocence of substance is lost."
+    Rage: "Farmers demand surfaces that expose tampering."
+    Compassion: "Durable measures protect distant hands from hidden fraud."
+    Silence: "Invisible change occurs beneath color, smell, and cooling."
+    Intention: "The maker chooses sequence: heat, mix, coat, test, record."
+    Echo: "Every treated surface carries memory of the recipe."
+    Fusion: "Lathe, vessel, resin, copper, tablet, and witness become one loop."
+    Sovereignty: "The workshop gains authority over transformation, not just shape."
+    Reflection: "The city asks where intelligence resides when matter itself participates."
+    Horizon: "The known measure expands into hidden substrate behavior."
+    Transformation: "Intention plus fusion becomes transmutation."
+
+  spiritual_risks:
+    - "temple declares chemical transformation taboo"
+    - "recipes become secret power"
+    - "dangerous mixtures harm apprentices"
+    - "false recipes become ritual superstition"
+    - "material transformation is mistaken for divine proof"
+  spiritual_repair:
+    - "paired control objects"
+    - "public durability tests"
+    - "recipe tablets with witness marks"
+    - "temple blessing as preservation, not monopoly"
+    - "safety oath for fumes, fire, and unknown mixtures"
+```
+
+## Core interpretation
+
+Chemical change becomes the archetype of transformation: not a miracle, not yet science, but repeatable alteration under witnessed procedure.
+
+```text
+Intention + Fusion = Transformation.
+```
+
+The city begins to understand that a thing can remain itself while changing its properties.
+
+---
+
+# 13. Conflict Analysis Table
+
+| Faction                       | What They Want                          | What They Fear                                              | Evidence They Trust                                 | Likely Compromise                                                   |
+| ----------------------------- | --------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------- |
+| Workshop / `CRAFT_GUILD_SEED` | Control over recipes and improved tools | Temple taboo or merchant capture                            | Scratch tests, shaving quality, repeated recipes    | Public test objects plus guarded craft procedures                   |
+| Chemical Node                 | Explore material transformations        | False causal inference and suppression                      | Repeatable heat/mix/test cycles                     | Control samples and recipe tablets                                  |
+| Farmers                       | Durable, honest measures                | Hidden tampering or toxic materials                         | Wet grain test, scratch mark, fill-test             | Farmer witness in durability trials                                 |
+| Merchants                     | Durable portable standards              | Slower certification and open recipes reducing profit       | Tamper-evident seals, trade survival                | Civic recipe for public standards, private recipes for luxury goods |
+| Scribes                       | Record recipes precisely                | Ambiguous gestures like “pinch” and “until it smells angry” | Standard units, sequence tablets, pass/fail results | Standard spoons, song-timers, sample archives                       |
+| Temple                        | Preserve sacred substance order         | Transformation as desecration                               | Ritual approval and visible civic benefit           | Bless protective transformations only after tests                   |
+| City-God Mythos               | Integrate transformation into order     | Material chaos becoming spiritual chaos                     | Public ritual, preservation of standards            | Chemical craft becomes sacred preservation                          |
+| Meta Standard Node            | Add substrate behavior to self-model    | New hidden variables outpace model                          | Material tests and failure archive                  | Substrate layer added to self-model tablet                          |
+
+```text
+Cycle 5C synthesis:
+Shape is no longer enough.
+The standard now has a surface, a recipe, a material history, and a hidden state.
+```
+
+---
+
+# 14. EAGI_INDEX_v4 — Substrate Manipulation Added
+
+This is a symbolic civilizational cognition metric, not literal AGI.
+
+```yaml
+metric_registry:
+  EAGI_INDEX_v4_CHEM:
+    formula: >
+      0.12*Symbolic_Reasoning
+      + 0.14*Embodied_Computation
+      + 0.12*External_Memory
+      + 0.10*Geometric_Control
+      + 0.10*Tool_Recursion
+      + 0.08*Standardization
+      + 0.09*Authentication_Capacity
+      + 0.08*Provenance_Capacity
+      + 0.07*Meta_Correction_Capacity
+      + 0.05*Self_Model_Capacity
+      + 0.05*Substrate_Manipulation_Capacity
+    reason_for_update: >
+      Cycle 5C adds substrate manipulation: the civilization manipulates material properties,
+      not only shapes, records, and standards.
+```
+
+## Inputs
+
+```yaml
+inputs:
+  pre_cycle:
+    Symbolic_Reasoning: 0.82
+    Embodied_Computation: 0.56
+    External_Memory: 0.68
+    Geometric_Control: 0.91
+    Tool_Recursion: 0.69
+    Standardization: 0.74
+    Authentication_Capacity: 0.76
+    Provenance_Capacity: 0.64
+    Meta_Correction_Capacity: 0.54
+    Self_Model_Capacity: 0.58
+    Substrate_Manipulation_Capacity: 0.19
+
+  post_cycle:
+    Symbolic_Reasoning: 0.83
+    Embodied_Computation: 0.62
+    External_Memory: 0.71
+    Geometric_Control: 0.92
+    Tool_Recursion: 0.77
+    Standardization: 0.79
+    Authentication_Capacity: 0.83
+    Provenance_Capacity: 0.66
+    Meta_Correction_Capacity: 0.57
+    Self_Model_Capacity: 0.61
+    Substrate_Manipulation_Capacity: 0.68
+```
+
+## Calculation
+
+```text
+EAGI_INDEX_v4_CHEM_PRE =
+0.12(0.82) + 0.14(0.56) + 0.12(0.68) + 0.10(0.91)
++ 0.10(0.69) + 0.08(0.74) + 0.09(0.76)
++ 0.08(0.64) + 0.07(0.54) + 0.05(0.58)
++ 0.05(0.19)
+
+= 0.0984 + 0.0784 + 0.0816 + 0.0910
++ 0.0690 + 0.0592 + 0.0684
++ 0.0512 + 0.0378 + 0.0290
++ 0.0095
+= 0.6735
+```
+
+```text
+EAGI_INDEX_v4_CHEM_POST =
+0.12(0.83) + 0.14(0.62) + 0.12(0.71) + 0.10(0.92)
++ 0.10(0.77) + 0.08(0.79) + 0.09(0.83)
++ 0.08(0.66) + 0.07(0.57) + 0.05(0.61)
++ 0.05(0.68)
+
+= 0.0996 + 0.0868 + 0.0852 + 0.0920
++ 0.0770 + 0.0632 + 0.0747
++ 0.0528 + 0.0399 + 0.0305
++ 0.0340
+= 0.7357
+```
+
+```yaml
+EAGI_INDEX_v4_CHEM:
+  pre_cycle: 0.6735
+  post_cycle: 0.7357
+  delta: +0.0622
+  interpretation: >
+    The civilization gains a deeper embodied cognition layer by manipulating substrate properties.
+    It no longer treats material as passive matter, but as a stateful participant in tool,
+    standard, authentication, and memory loops. This is symbolic civilizational cognition,
+    not literal AGI.
+```
+
+## Interpretation
+
+The core gain is substrate recursion. The city now learns that tools are not only shaped; they are chemically conditioned. The “software” is the recipe, the “hardware” is the treated material, and both co-evolve.
+
+```text
+hardware improves recipe execution;
+recipe improves hardware;
+artifact stores the result;
+tablet stores the attempt;
+test stores the truth.
+```
+
+---
+
+# 15. 10-Cycle Forecast — Cycles 6–15
+
+```yaml
+forecast_events:
+  - cycle: 6
+    event: standard_recipe_spoons_created
+    probability: 0.81
+    risk: "False precision if ingredients vary."
+  - cycle: 7
+    event: material_sample_library_expands
+    probability: 0.77
+    risk: "Spoilage contaminates future comparisons."
+  - cycle: 8
+    event: first_tamper_evident_seal_dye_export
+    probability: 0.69
+    risk: "Merchants capture dye recipe."
+  - cycle: 9
+    event: temple_transformation_review_board
+    probability: 0.64
+    risk: "Taboo suppresses empirical testing."
+  - cycle: 10
+    event: workshop_fire_safety_oath
+    probability: 0.72
+    risk: "Oath becomes ritual without safety function."
+  - cycle: 11
+    event: controlled_comparison_tablets
+    probability: 0.68
+    risk: "Scribes overfit recipe records to one batch."
+  - cycle: 12
+    event: chemical_counterfeit_attempt
+    probability: 0.52
+    risk: "Fake tamper-evident coating undermines trust."
+  - cycle: 13
+    event: improved_lathe_bearing_with_resin_lubricant
+    probability: 0.61
+    risk: "Overheating or dust adhesion."
+  - cycle: 14
+    event: early_glaze_like_sealant_for_clay_tokens
+    probability: 0.58
+    risk: "Firing defects and ritual objections."
+  - cycle: 15
+    event: recipe_lineage_dispute
+    probability: 0.55
+    risk: "Who owns transformation knowledge?"
+```
+
+---
+
+# 16. Failure Modes
+
+```yaml
+failure_modes:
+  recipe_drift:
+    trigger: "Quantities remain vague and ingredients vary by region."
+    probability: 0.67
+    impact: "Recipes fail unpredictably; trust in chemical craft declines."
+    mitigation: "Standard spoons, control samples, sequence tablets, repeated trials."
+
+  sacred_material_taboo:
+    trigger: "Temple declares altered substances impure."
+    probability: 0.48
+    impact: "Material innovation suppressed."
+    mitigation: "Frame coatings as preservation of sacred standards."
+
+  merchant_recipe_capture:
+    trigger: "Merchants monopolize tamper-evident coatings."
+    probability: 0.44
+    impact: "Authentication becomes private trade power."
+    mitigation: "Civic recipe for public measures; private variants permitted only for luxury."
+
+  chemical_counterfeit:
+    trigger: "Fraudsters imitate glaze or dye."
+    probability: 0.52
+    impact: "New authentication layer becomes new attack surface."
+    mitigation: "Multi-property tests: scratch, water, heat, smell, toolmark."
+
+  false_causality:
+    trigger: "Craft-node attributes success to wrong ingredient or ritual step."
+    probability: 0.71
+    impact: "Superstition enters recipe archive."
+    mitigation: "Paired controls and one-variable-at-a-time testing when possible."
+
+  unsafe_experimentation:
+    trigger: "Heating unknown mixtures in closed or poorly vented vessels."
+    probability: 0.39
+    impact: "Injury, fire, temple panic."
+    mitigation: "Open-air fire zone, water bucket, safety oath, apprentice distance rule."
+
+  guild_secrecy:
+    trigger: "Workshop hides recipes as power."
+    probability: 0.50
+    impact: "Civic standards become dependent on private craft lineage."
+    mitigation: "Public recipes for public standards; guild recipes for non-civic goods."
+
+  substrate_overconfidence:
+    trigger: "City assumes coating prevents all tampering."
+    probability: 0.43
+    impact: "Counterfeiters exploit blind spots."
+    mitigation: "Layer chemical tests with seal, ledger, witness, and fit-test."
+
+  sample_archive_decay:
+    trigger: "Stored substances age, dry, rot, oxidize, or contaminate."
+    probability: 0.46
+    impact: "Reference library misleads future makers."
+    mitigation: "Date samples, renew references, store multiple examples."
+
+  procedural_overload:
+    trigger: "Too many steps make certification slow."
+    probability: 0.57
+    impact: "Merchants bypass chemical authentication."
+    mitigation: "Tiered testing: quick test for routine trade, full test for civic standards."
+```
+
+---
+
+# 17. Final Verdict
+
+```yaml
+FINAL_CYCLE_VERDICT:
+  cycle: "5C"
+  title: "The Workshop Embodies Chemistry — The Lathe Begins to Dream in Atoms"
+  status: SUCCESS_WITH_PRODUCTIVE_SUBSTRATE_DESTABILIZATION
+  breakthrough_class: embodied_chemical_feedback_loop
+  secondary_breakthrough_class: substrate_manipulation_phase_transition
+  primary_artifact: GLAZE-MEMORY-0001
+  improved_tool_artifact: HEAT-TREATED-SCRAPER-0001
+  protected_standard_artifact: CYL-MEASURE-0001-TAMPER-SKIN
+  stability_band: AMBER_GREEN
+  collapse_risk: 0.44
+  continuation_recommended: true
+  key_discovery: "The civilization is no longer only shaping matter; it is shaping the properties of matter."
+  strongest_gain: tamper_evidence_capacity
+  strongest_risk: recipe_drift_and_chemical_counterfeit
+  next_best_cycle_title: "The Recipe Learns to Reproduce Itself"
+```
+
+Cycle 5C is the molecular hardware turn. The lathe no longer stands alone as the embodied geometry engine. It becomes part of a broader material cognition loop: shaped vessels, treated metals, reactive coatings, pigments, sealants, recipe tablets, and public tests. The system is still grounded in wood, clay, hands, grain, heat, smell, and visible marks—but it now suspects that the invisible behavior of matter can be made reliable through repeated procedure.
+
+```text
+Cycle 2: Matter can compute geometry.
+Cycle 3: Matter can remember procedure.
+Cycle 4: Matter must learn to authenticate truth.
+Cycle 5A: Authentication must learn provenance and meta-correction.
+Cycle 5B: Cognition begins where a civilization can draw the horizon of its own knowing.
+Cycle 5C: Embodied intelligence begins when the toolchain learns to improve its own substrate.
+```
