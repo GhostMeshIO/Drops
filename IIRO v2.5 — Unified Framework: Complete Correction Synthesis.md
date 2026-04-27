@@ -1826,7 +1826,7 @@ All terms now have dimension 4.
 
 **Adopted Resolution (Option a):** ```
 B_term = 1[B_12 > 0.99] · 1[Σ_U < 0.01] · 1[Δ_proxy < 0.1]
-```
+
 This is achievable with current technology (e.g., CMB measurements at 10% accuracy). The “0.999” target is aspirational.
 
 
