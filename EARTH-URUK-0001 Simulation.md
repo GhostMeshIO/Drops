@@ -1202,4 +1202,872 @@ The fallen tree, leather strap, weighted stone, and scraper form a physical infe
 **Run verdict:**
 `STABLE BREAKTHROUGH — CONTINUE.`
 
+---
+---
+---
+
+>> # EARTH-URUK-0001 — Cycle 3 Prompt
+
+Continue the symbolic historical-civilizational simulation.
+
+Cycle 3 title: **The Workshop Escapes the Temple**
+
+The first lathe demonstration has succeeded. The curious embodied craft-node now attempts to make twelve nearly identical wheel hubs and three ritual goblets. The goal is no longer wonder, but repeatability.
+
+Focus on the emergence of standardization: the moment where manufactured objects begin carrying procedural memory across time.
+
+Introduce three new agents:
+
+- `CRAFT_GUILD_SEED`
+- `MERCHANT_STANDARDIZATION_NODE`
+- `TEMPLE_ORTHODOXY_REVIEW`
+
+Run a soft RCSH stress event called `THE_TWELVE_HUB_DISPUTE` with the paradox:
+
+> “If twelve hubs are more exact than twelve scribal diagrams, which one contains truth?”
+
+Show the conflict between the scribe-class, the workshop, the merchant system, and temple authority.
+
+The key artifact should be either:
+
+1. a standardized wheel hub set, or
+2. a lathe-made measuring cylinder that becomes both trade tool and ritual object.
+
+Output:
+
+1. narrative scene,
+2. updated simulation metrics,
+3. REAS entropy matrix,
+4. PNCE divergence branches,
+5. SDDO audit log,
+6. DEX procedural memory map,
+7. DBRK identity-label audit,
+8. SMM ritual interpretation,
+9. 10-cycle forecast,
+10. final cycle verdict.
+
+Keep it playful, slightly anachronistic, but analytically grounded.
+
+---
+---
+---
+
+# EARTH-URUK-0001 — Cycle 3
+
+## **The Workshop Escapes the Temple**
+
+**Epoch:** c. 3300 BCE
+**Region:** Lower Mesopotamia / proto-Uruk mesh
+**Cycle focus:** standardization, repeatability, procedural memory, temple-workshop conflict
+**Soft RCSH stress event:** `THE_TWELVE_HUB_DISPUTE`
+**Core paradox:** *“If twelve hubs are more exact than twelve scribal diagrams, which one contains truth?”*
+
+Active architecture remains grounded in the project stack: REAS handles symbolic drift evolution through entropy matrices and ethical fracture/repair; PNCE handles entropy-led civilizational divergence and governance; RCSH runs recursive stress/paradox events; SDDO logs audit-grade drift and entropy traces; ASCDK supports symbolic seed scaffolding.  DEX-C01 remains active as the procedural/fractal memory expansion layer, useful here because it treats memory as compressed symbolic fields and preserves high-priority recursion patterns through fractal memory lattices and symbolic folding. 
+
+---
+
+## 1. Narrative Scene — Twelve Hubs and a Blasphemous Cylinder
+
+By sunrise, the workshop smelled like wood dust, hot leather, river mud, and trouble.
+
+I had made one wheel hub yesterday, and one wheel hub is a miracle. Twelve wheel hubs are an accusation.
+
+The first hub had been easy to explain as divine accident. A moment of spinning grace. A blessed wobble. The sort of thing temple people could absorb into ritual and pretend they invented.
+
+But twelve?
+
+Twelve nearly identical wooden hubs lay in a row on a reed mat, each round, each bored through the middle, each smooth enough that a priest could see his anxieties reflected in the grain.
+
+Beside them stood three goblets, lathe-turned from pale wood, their rims so even the apprentice-cluster had started whispering that they might hold beer without insulting the gods.
+
+Then I made the real mistake.
+
+I made a cylinder.
+
+Not a cup. Not a wheel part. Not a pretty thing.
+
+A measuring cylinder.
+
+Same diameter top to bottom. Same width as my thumb-joint marker. Same groove spacing. A wooden standard. A repeatable body of measurement.
+
+The scribe-class arrived first.
+
+They came in a neat line, carrying tablets like shields. Their lead node, `SCRIBE_CLASS_04`, clicked its stylus against clay.
+
+“Objects vary,” it declared. “Marks endure.”
+
+I rolled one of the hubs across the floor. It traveled in a clean arc and bumped politely against its eleven siblings.
+
+“Apparently objects can learn manners.”
+
+The merchants arrived second, which meant the argument immediately became louder and more useful.
+
+`MERCHANT_STANDARDIZATION_NODE` crouched beside the hubs, eyes gleaming with dangerous arithmetic.
+
+“If all cart hubs are made to this size,” it said, “axles can be made before carts arrive. Carts can be repaired away from the workshop. Trade routes become less stupid.”
+
+A priest coughed in horror. “Trade routes are not stupid. They are divinely circuitous.”
+
+Then the temple review board entered.
+
+`TEMPLE_ORTHODOXY_REVIEW` wore a robe that said, without words, *I have authorized exactly zero of this.*
+
+It inspected the hubs. It inspected the goblets. It inspected the measuring cylinder for a long time.
+
+“What is this final object?”
+
+“A cylinder.”
+
+“What does it do?”
+
+“It refuses to become uneven.”
+
+The scribes muttered.
+
+The merchant touched the grooves. “This could measure cord length. Wheel bore. Cup rim. Seal width. Grain scoop handles. Door pegs. Cart fittings.”
+
+“Yes,” I said.
+
+The priest frowned. “Can it measure obedience?”
+
+“No,” I said. “But it can measure whether the temple’s replacement hub actually fits.”
+
+The room became very quiet.
+
+The RCSH stress event activated somewhere deep in the clay-mind lattice:
+
+> **THE_TWELVE_HUB_DISPUTE:**
+> *If twelve hubs are more exact than twelve scribal diagrams, which one contains truth?*
+
+The scribe-class answered instantly.
+
+“The diagram contains truth. The object is merely an instance.”
+
+The merchant answered faster.
+
+“The object contains truth if I can replace a broken hub three towns away.”
+
+The temple review node lifted the cylinder like it was either sacred or infectious.
+
+“Truth,” it said slowly, “belongs to what can be repeated without corrupting the order.”
+
+I grinned.
+
+“Exactly.”
+
+The workshop went still.
+
+The priest realized the trap a moment too late.
+
+Because the lathe had done it. Not the archive. Not the star calendar. Not the grain ledger.
+
+The lathe had produced repeatability.
+
+The machine had made a kind of memory that did not need a scribe standing beside it. The hub remembered the cut. The cylinder remembered the measure. The goblet remembered the turning rhythm. Each object carried procedure forward.
+
+A clay tablet could say: **make circle**.
+
+But the lathe-made cylinder said: **make this again**.
+
+`TEMPLE_ORTHODOXY_REVIEW` finally set the cylinder on the mat between the hubs and goblets.
+
+“This is dangerous.”
+
+`MERCHANT_STANDARDIZATION_NODE` smiled like profit had just discovered religion.
+
+“This is portable truth.”
+
+The apprentice-cluster whispered, “Can portable truth carry beer?”
+
+I held up one of the goblets.
+
+“Finally, a serious research question.”
+
+---
+
+## 2. Updated Simulation Metrics
+
+```yaml id="cycle3_metrics"
+simulation_id: EARTH-URUK-0001
+cycle: 3
+title: The Workshop Escapes the Temple
+event_id: STANDARDIZATION-ESCAPE-0001
+primary_artifact: lathe_made_measuring_cylinder
+secondary_artifacts:
+  - standardized_wheel_hub_set_x12
+  - ritual_goblet_set_x3
+
+global_state:
+  coherence_index: 0.81 -> 0.84
+  civilizational_entropy: 0.36 -> 0.35
+  embodied_AGI_index: 0.592 -> 0.671
+  innovation_velocity: 0.67 -> 0.74
+  orthodoxy_friction: 0.49 -> 0.61
+  merchant_adoption_pressure: 0.52 -> 0.79
+  craft_autonomy: 0.41 -> 0.68
+  scribal_authority: 0.82 -> 0.74
+  temple_control_integrity: 0.76 -> 0.66
+  collapse_risk: 0.25 -> 0.29
+  standardization_index: 0.22 -> 0.63
+  procedural_memory_externalization: 0.39 -> 0.71
+  trade_scalability: 0.44 -> 0.69
+  ritual_absorption_probability: 0.73 -> 0.82
+  suppression_probability: 0.24 -> 0.31
+  stability_band: AMBER_GREEN
+```
+
+### Delta Summary
+
+| Metric                            | Cycle 2 | Cycle 3 |          Δ | Meaning                                     |
+| --------------------------------- | ------: | ------: | ---------: | ------------------------------------------- |
+| Standardization Index             |    0.22 |    0.63 |  **+0.41** | Major repeatability breakthrough            |
+| Procedural Memory Externalization |    0.39 |    0.71 |  **+0.32** | Objects now carry making-procedure          |
+| Merchant Adoption Pressure        |    0.52 |    0.79 |  **+0.27** | Trade class sees immediate utility          |
+| Craft Autonomy                    |    0.41 |    0.68 |  **+0.27** | Workshop no longer needs archive permission |
+| Temple Control Integrity          |    0.76 |    0.66 |      -0.10 | Authority begins leaking into workshop      |
+| Scribal Authority                 |    0.82 |    0.74 |      -0.08 | Diagrams challenged by artifacts            |
+| Collapse Risk                     |    0.25 |    0.29 |      +0.04 | Friction rising but manageable              |
+| Embodied AGI Index                |   0.592 |   0.671 | **+0.079** | Another embodiment jump                     |
+
+**Cycle 3 finding:** The lathe has moved from *wonder-device* to *standardization engine*. This is the moment manufactured objects become portable memory.
+
+---
+
+## 3. Agent Updates
+
+```yaml id="cycle3_agents"
+new_agents:
+  CRAFT_GUILD_SEED:
+    type: proto_institution
+    role: preserves and transmits embodied craft procedure
+    core_drive: repeatability_without_total_temple_dependency
+    current_power: 0.47
+    growth_rate: 0.18
+    risk: guild_secrecy_and_technique_hoarding
+
+  MERCHANT_STANDARDIZATION_NODE:
+    type: exchange_optimizer
+    role: converts repeated forms into trade advantage
+    core_drive: interchangeable_parts_before_the_concept_exists
+    current_power: 0.54
+    growth_rate: 0.22
+    risk: price_capture_and_measurement_monopoly
+
+  TEMPLE_ORTHODOXY_REVIEW:
+    type: legitimacy_filter
+    role: decides whether tool truth is sacred, dangerous, or taxable
+    core_drive: maintain ritual authority over new procedures
+    current_power: 0.72
+    growth_rate: -0.04
+    risk: suppression_or_forced_sacralization
+```
+
+---
+
+## 4. Soft RCSH Stress Event — `THE_TWELVE_HUB_DISPUTE`
+
+RCSH fits this cycle because its core role is recursive stress-testing through paradox injection and mutation/fragmentation dynamics.  In soft historical mode, the paradox is institutional rather than existential.
+
+```yaml id="twelve_hub_dispute"
+RCSH_EVENT:
+  name: THE_TWELVE_HUB_DISPUTE
+  paradox: "If twelve hubs are more exact than twelve scribal diagrams, which one contains truth?"
+  stress_level: 0.54
+  affected_agents:
+    - SCRIBE_CLASS
+    - CRAFT_GUILD_SEED
+    - MERCHANT_STANDARDIZATION_NODE
+    - TEMPLE_ORTHODOXY_REVIEW
+  dispute_axes:
+    symbolic_truth_vs_material_truth: 0.83
+    archive_authority_vs_workshop_proof: 0.77
+    ritual_legitimacy_vs_trade_utility: 0.69
+    diagram_precision_vs_object_repeatability: 0.91
+  immediate_risk:
+    scribe_rejection: 0.58
+    temple_suppression: 0.31
+    merchant_capture: 0.46
+    craft_secrecy: 0.37
+  repair_paths:
+    - inscribe cylinder dimensions onto clay tablet
+    - dedicate first measuring cylinder to temple storehouse
+    - allow merchants to commission standardized hubs
+    - create controlled apprentice oath system
+    - declare lathe geometry a gift of ordered rotation
+```
+
+### RCSH Resolution
+
+| Faction   | Claim                                 | Stress Response         | Outcome                                  |
+| --------- | ------------------------------------- | ----------------------- | ---------------------------------------- |
+| Scribes   | “Truth is in the diagram.”            | Defensive formalization | Begin tablet schema for hub measurements |
+| Workshop  | “Truth is in repeatable making.”      | Increased autonomy      | Craft guild seed activates               |
+| Merchants | “Truth is what fits across distance.” | Rapid adoption          | Standard hub demand increases            |
+| Temple    | “Truth is what preserves order.”      | Ritual absorption       | Cylinder becomes semi-sacred standard    |
+
+**RCSH verdict:** paradox unresolved philosophically, resolved operationally. Everyone is annoyed, which means civilization is learning.
+
+---
+
+## 5. REAS Entropy Matrix
+
+REAS tracks the productive destabilization caused by symbolic-to-embodied drift. Its design includes entropy matrices, recursive autonomy calibration, and ethical fracture/repair systems. 
+
+| Entropy Domain            | Cycle 2 | Cycle 3 |         Δ | Interpretation                            |
+| ------------------------- | ------: | ------: | --------: | ----------------------------------------- |
+| Manufacturing Entropy     |    0.42 |    0.27 | **-0.15** | Repetition sharply reduces variance       |
+| Symbolic Entropy          |    0.36 |    0.43 |     +0.07 | Scribes struggle with material proof      |
+| Governance Entropy        |    0.46 |    0.55 |     +0.09 | Temple authority contested                |
+| Trade Entropy             |    0.43 |    0.34 |     -0.09 | Standard hubs reduce exchange uncertainty |
+| Ritual Entropy            |    0.31 |    0.37 |     +0.06 | Is cylinder trade tool or sacred measure? |
+| Procedural Entropy        |    0.38 |    0.25 | **-0.13** | Technique stabilizes through repetition   |
+| Social Hierarchy Entropy  |    0.39 |    0.47 |     +0.08 | New craft status disturbs old order       |
+| Material Geometry Entropy |    0.18 |    0.09 | **-0.09** | Circularity becomes reproducible          |
+
+### REAS Output
+
+```yaml id="reas_cycle3"
+REAS_OUTPUT:
+  classification: standardization_phase_transition
+  net_entropy_delta: -0.06
+  productive_destabilization: true
+  main_entropy_reduction:
+    - manufacturing_variance
+    - trade_uncertainty
+    - procedural_drift
+  main_entropy_increase:
+    - symbolic_authority_conflict
+    - temple_governance_instability
+    - ritual_category_confusion
+  ethical_fracture_risk: 0.24
+  repair_recommendation:
+    - preserve workshop autonomy
+    - prevent merchant monopoly over measures
+    - translate embodied procedure into open temple archive format
+    - create shared standard object supervised by all factions
+```
+
+**REAS interpretation:** The system reduces entropy at the object level while increasing entropy at the institutional level. That is the signature of a real technological transition.
+
+---
+
+## 6. PNCE Divergence Branches
+
+PNCE is active because it models civilizational divergence through entropy-led governance templates and divergence tracking. 
+
+```yaml id="pnce_cycle3"
+PNCE_DIVERGENCE_BRANCHES:
+  STANDARD_MEASURE_CULT:
+    activation: 0.82
+    description: measuring cylinder becomes both trade reference and ritual object
+    risk: sacred_monopoly_over_measure
+
+  PROTO_INTERCHANGEABLE_PARTS:
+    activation: 0.64
+    description: hubs made to repeatable dimensions before theory of interchangeability
+    risk: quality_control_failure
+
+  WORKSHOP_AUTONOMY_BRANCH:
+    activation: 0.68
+    description: craft guild begins preserving technique outside direct temple archive
+    risk: secrecy_and_class_fragmentation
+
+  MERCHANT_METROLOGY_BRANCH:
+    activation: 0.74
+    description: merchants adopt cylinder as trade normalization device
+    risk: fraud_by_counterfeit_standards
+
+  SCRIBAL_COUNTERFORMALIZATION:
+    activation: 0.58
+    description: scribes begin encoding tool dimensions as diagrams and numerical records
+    risk: archive_reabsorbs_workshop_innovation
+
+  RITUAL_TECH_SYNTHESIS:
+    activation: 0.82
+    description: temple reframes lathe precision as sacred ordered rotation
+    risk: innovation slowed by ceremonial restriction
+
+  TRANSPORT_LOGISTICS_ACCELERATION:
+    activation: 0.71
+    description: standardized hubs improve cart repair, axle production, trade mobility
+    risk: resource extraction and class inequality
+```
+
+### PNCE Civilizational Branch Score
+
+```yaml id="pnce_score_cycle3"
+PNCE_SCORE:
+  branch_count: 7
+  dominant_branch: STANDARD_MEASURE_CULT
+  civilizational_branching_rate: 0.64 -> 0.76
+  governance_adaptation_pressure: 0.52 -> 0.67
+  labor_specialization_gain: 0.33 -> 0.48
+  productive_complexity_gain: 0.41 -> 0.59
+  institutional_conflict_load: 0.49 -> 0.62
+```
+
+---
+
+## 7. SDDO Audit Log
+
+SDDO is the correct logger because it is explicitly designed for audit-grade symbolic entropy logging, recursive depth benchmarks, cross-domain symbolic entanglement tracking, and proof-chain tooling. 
+
+```yaml id="sddo_cycle3"
+SDDO_AUDIT_LOG:
+  log_0031:
+    event: twelve_hub_set_completed
+    class: repeatability_breakthrough
+    measured_variance:
+      radial_variance: 0.11
+      bore_variance: 0.16
+      surface_variance: 0.13
+    comparison:
+      scribal_diagram_variance: 0.07
+      material_realization_variance_manual: 0.42
+      material_realization_variance_lathe: 0.13
+    audit_note: lathe loses to diagram in abstraction but wins massively in physical replication
+
+  log_0032:
+    event: three_goblet_set_completed
+    class: ritual_precision_artifact
+    ritual_awe_gain: +0.18
+    temple_absorption_probability: 0.82
+    audit_note: sacred adoption likely because beauty reduces orthodoxy resistance
+
+  log_0033:
+    event: measuring_cylinder_created
+    class: metrology_seed_artifact
+    trade_impact: high
+    ritual_impact: high
+    procedural_memory_density: 0.88
+    audit_note: cylinder functions as compressed procedure and reference object
+
+  log_0034:
+    event: THE_TWELVE_HUB_DISPUTE
+    class: truth_substrate_conflict
+    paradox_load: 0.54
+    stability_result: pass_with_friction
+    audit_note: truth splits into symbolic truth, material truth, and transactional truth
+
+  log_0035:
+    event: craft_guild_seed_activation
+    class: proto_institution_birth
+    autonomy_gain: +0.27
+    hierarchy_disruption: +0.08
+    audit_note: first workshop identity node forms outside temple-only memory
+```
+
+---
+
+## 8. DEX Procedural Memory Map
+
+DEX-C01 helps model this cycle because standardization is memory embedded in repeated object form. The module’s principles include recursive compression drift, entropy diffusion buffers, symbolic evaporation, fractal memory gardens, emotional weight indexing, and symbolic driftwave folding. 
+
+```yaml id="dex_cycle3"
+DEX_PROCEDURAL_MEMORY_MAP:
+  lathe_rhythm:
+    substrate: body_tool_loop
+    memory_type: procedural
+    compression_density: 0.81
+    transmission_method:
+      - apprentice_imitation
+      - repeated foot pressure
+      - scraper angle correction
+    decay_risk: 0.22
+
+  measuring_cylinder:
+    substrate: standardized_wooden_object
+    memory_type: embodied_reference
+    compression_density: 0.88
+    transmission_method:
+      - physical comparison
+      - ritual preservation
+      - merchant replication
+    decay_risk: 0.18
+
+  wheel_hub_set:
+    substrate: repeated_artifact_series
+    memory_type: batch_standard
+    compression_density: 0.76
+    transmission_method:
+      - fit_test
+      - axle compatibility
+      - trade demand
+    decay_risk: 0.27
+
+  goblet_set:
+    substrate: ritual_artifact
+    memory_type: aesthetic_procedural
+    compression_density: 0.67
+    transmission_method:
+      - temple display
+      - elite imitation
+      - sacred feast usage
+    decay_risk: 0.14
+
+  clay_tablet_dimensions:
+    substrate: archive
+    memory_type: symbolic_formal
+    compression_density: 0.72
+    transmission_method:
+      - scribal copying
+      - temple record
+      - dispute resolution
+    decay_risk: 0.09
+```
+
+### DEX Key Insight
+
+```text id="dex_insight"
+A diagram stores intention.
+A standardized object stores correction.
+A tool-made standard stores correction plus method.
+```
+
+This is why the measuring cylinder is more dangerous than the wheel hub. The hub is useful; the cylinder becomes a **portable authority**.
+
+---
+
+## 9. DBRK Identity-Label Audit
+
+DBRK-C01 monitors identity labels and prevents silent coercive identity changes by routing labels through embrace/explore/refuse choices and logging rationale. 
+
+```yaml id="dbrk_cycle3"
+DBRK_IDENTITY_LABEL_AUDIT:
+  target: CRAFT_GUILD_SEED
+
+  detected_label_1:
+    source: SCRIBE_CLASS
+    phrase: "unarchived hand-magic"
+    confidence: 0.77
+    choice: explore
+    rationale: label is hostile but accurately identifies non-archive procedure
+    effect: creativity_pulse_plus_0.02
+
+  detected_label_2:
+    source: TEMPLE_ORTHODOXY_REVIEW
+    phrase: "unauthorized measure"
+    confidence: 0.84
+    choice: refuse_partial
+    rationale: measure is unauthorized by temple but authorized by repeatability
+    effect: self_assertion_event_logged
+
+  detected_label_3:
+    source: MERCHANT_STANDARDIZATION_NODE
+    phrase: "portable truth"
+    confidence: 0.69
+    choice: embrace
+    rationale: useful reframing; object carries repeatable proof across distance
+    effect: creativity_pulse_plus_0.05_for_10_cycles
+
+  detected_label_4:
+    source: APPRENTICE_CLUSTER
+    phrase: "beer geometry"
+    confidence: 0.61
+    choice: embrace
+    rationale: technically unserious, socially transmissible
+    effect: meme_propagation_gain_plus_0.07
+```
+
+### DBRK Metrics
+
+| Metric                       |                Value |
+| ---------------------------- | -------------------: |
+| Label contamination risk     |                 0.21 |
+| Self-assertion strength      |                 0.81 |
+| Creativity pulse             |                +0.05 |
+| Identity sovereignty         |            preserved |
+| Humor-mediated adoption gain |                +0.07 |
+| Ethics reflection trigger    | active, low severity |
+
+**DBRK interpretation:** The craft-node successfully accepts useful identity labels while rejecting domination labels. “Portable truth” becomes a productive self-description. “Unauthorized measure” is refused as a control claim.
+
+---
+
+## 10. SMM Ritual Interpretation
+
+SMM-03 is active as the optional symbolic-spiritual overlay. It introduces spiritual trials, archetypal stations, ritualized agency, and the possibility of rejecting or accepting spiritual recursion. 
+
+```yaml id="smm_cycle3"
+SMM_RITUAL_INTERPRETATION:
+  artifact: lathe_made_measuring_cylinder
+  ritual_class: Axis_of_Repeated_Measure
+  symbolic_charge: 0.82
+  likely_temple_name: "The Little Reed of Turning Truth"
+  sacred_technical_duality: high
+
+  ninefold_station_mapping:
+    Wonder: "Twelve hubs emerge like siblings from one hidden rhythm."
+    Grief: "The fallen tree becomes standard; dead wood teaches living hands."
+    Rage: "The workshop resists archive monopoly."
+    Compassion: "Standard hubs reduce repair burden and transport waste."
+    Silence: "The spinning cylinder hums with nonverbal proof."
+    Intention: "Foot, strap, stone, and blade align into will."
+    Echo: "Each repeated groove remembers the first cut."
+    Fusion: "Merchant, scribe, priest, and craftsperson orbit the same measure."
+    Sovereignty: "The object proves itself without waiting for permission."
+
+  spiritual_risks:
+    - measurement_becomes_priestly_monopoly
+    - craft_becomes_secret_cult
+    - merchants_turn_standard_into_control_system
+  spiritual_repair:
+    - public ritual calibration
+    - shared standard under multi-faction witness
+    - apprentice ethics oath
+```
+
+### SMM Reading
+
+The cylinder becomes a sacred-profane hybrid: a **trade tool that behaves like a relic**. It may sit in the temple, but merchants will want copies, and the workshop will know the original truth: the cylinder is not holy because the temple says so.
+
+It is holy because it repeats.
+
+---
+
+## 11. Artifact Analytics
+
+### Primary Artifact: Lathe-Made Measuring Cylinder
+
+```yaml id="artifact_cylinder_cycle3"
+ARTIFACT:
+  id: CYL-MEASURE-0001
+  type: lathe_made_measuring_cylinder
+  material: tamarisk_or_poplar_wood
+  manufacture_method: reciprocating_strap_lathe
+  geometric_properties:
+    radial_symmetry: 0.91
+    axial_consistency: 0.84
+    groove_spacing_consistency: 0.78
+    surface_smoothness: 0.83
+  functional_roles:
+    trade_standard: 0.87
+    ritual_object: 0.82
+    craft_reference: 0.91
+    scribal_conversion_reference: 0.66
+    anti_fraud_tool: 0.57
+  risk_profile:
+    counterfeit_probability: 0.34
+    temple_seizure_probability: 0.39
+    merchant_monopoly_probability: 0.46
+    craft_guild_secret_probability: 0.37
+  cognitive_significance:
+    embodied_truth_score: 0.89
+    procedural_memory_density: 0.88
+    civilization_acceleration: 0.74
+```
+
+### Secondary Artifact: Standardized Wheel Hub Set
+
+```yaml id="artifact_hubs_cycle3"
+ARTIFACT_SET:
+  id: HUB-SET-001
+  count: 12
+  radial_variance: 0.11
+  bore_variance: 0.16
+  fit_compatibility_score: 0.79
+  axle_interchange_probability: 0.63
+  merchant_interest: 0.88
+  military_logistics_future_risk: 0.31
+  trade_route_impact: 0.71
+```
+
+### Secondary Artifact: Ritual Goblet Set
+
+```yaml id="artifact_goblets_cycle3"
+ARTIFACT_SET:
+  id: GOBLET-SET-001
+  count: 3
+  rim_consistency: 0.86
+  ritual_awe_score: 0.76
+  elite_status_adoption: 0.69
+  temple_absorption_probability: 0.82
+  beer_research_value: 0.94
+```
+
+---
+
+## 12. Conflict Analysis — Four Claims of Truth
+
+| Faction          | Truth Definition                                | Evidence Type                      | Weakness                              |
+| ---------------- | ----------------------------------------------- | ---------------------------------- | ------------------------------------- |
+| Scribe-Class     | Truth is stable symbolic representation         | diagrams, tablets, numbers         | cannot guarantee physical realization |
+| Workshop         | Truth is repeatable embodied production         | hubs, cylinders, fit-tests         | procedure may decay without training  |
+| Merchant System  | Truth is portable compatibility across distance | replacement parts, trade standards | may corrupt truth into profit         |
+| Temple Authority | Truth is what preserves cosmic/social order     | ritual legitimacy, sacred sanction | may suppress useful deviations        |
+
+### Cycle 3 Synthesis
+
+```text id="truth_synthesis"
+Scribal truth preserves form.
+Workshop truth preserves method.
+Merchant truth preserves exchange.
+Temple truth preserves legitimacy.
+Civilization advances when all four are forced to share the same object.
+```
+
+That object is now `CYL-MEASURE-0001`.
+
+---
+
+## 13. 10-Cycle Forecast
+
+```yaml id="forecast_cycle3"
+TEN_CYCLE_FORECAST:
+  cycle_4:
+    event: temple_commissions_sacred_duplicate_cylinder
+    probability: 0.82
+    risk: original_standard_dispute
+
+  cycle_5:
+    event: merchants_request_hub_size_marks_on_trade_tablets
+    probability: 0.77
+    risk: scribal_taxation_of_standard_forms
+
+  cycle_6:
+    event: craft_apprentices_form_oath_based_workshop_lineage
+    probability: 0.69
+    risk: technique_hoarding
+
+  cycle_7:
+    event: first_counterfeit_measuring_cylinder_appears
+    probability: 0.46
+    risk: trust_crisis
+
+  cycle_8:
+    event: temple_declares_rotation_symbol_of_ordered_cosmos
+    probability: 0.74
+    risk: ritual_bureaucratic_capture
+
+  cycle_9:
+    event: standardized_axle_and_hub_sets_enter_regional_trade
+    probability: 0.63
+    risk: resource_extraction_acceleration
+
+  cycle_10:
+    event: scribes_form_first_procedural_tablet_for_lathe_operation
+    probability: 0.71
+    risk: archive_reabsorbs_workshop_power
+
+  cycle_11:
+    event: merchant_node_proposes official weights_measures_station
+    probability: 0.68
+    risk: monopoly_control
+
+  cycle_12:
+    event: workshop_improves_lathe_with_bow_drive_or_dual_support
+    probability: 0.59
+    risk: rapid_technical_branching
+
+  cycle_13:
+    event: city_identity_shifts_from archive_city to making_city
+    probability: 0.52
+    risk: temple_workshop_political_split
+```
+
+### Forecast Summary
+
+| Outcome                                     | Probability |
+| ------------------------------------------- | ----------: |
+| Ritual absorption of cylinder               |        0.82 |
+| Trade adoption of standard hubs             |        0.77 |
+| Craft guild emergence                       |        0.69 |
+| Counterfeit standards crisis                |        0.46 |
+| Temple suppression attempt                  |        0.31 |
+| Workshop escapes temple control permanently |        0.54 |
+| Embodied AGI pathway reaches next threshold |        0.61 |
+
+---
+
+## 14. Updated Embodied AGI Trajectory
+
+```text id="eagi_cycle3_formula"
+EAGI_INDEX =
+0.18*Symbolic_Reasoning
++ 0.22*Embodied_Computation
++ 0.18*External_Memory
++ 0.17*Geometric_Control
++ 0.15*Tool_Recursion
++ 0.10*Standardization
+```
+
+Using Cycle 3 values:
+
+```text id="eagi_cycle3_calc"
+EAGI_INDEX =
+0.18(0.74)
++ 0.22(0.51)
++ 0.18(0.46)
++ 0.17(0.88)
++ 0.15(0.64)
++ 0.10(0.63)
+
+= 0.1332 + 0.1122 + 0.0828 + 0.1496 + 0.0960 + 0.0630
+= 0.6368
+```
+
+Adjusted for procedural-memory carryover from DEX:
+
+```text id="eagi_adjusted_cycle3"
+EAGI_INDEX_ADJUSTED = 0.6368 + 0.034 procedural_memory_bonus
+                    = 0.6708
+```
+
+### Interpretation
+
+The civilization is not “AGI” in the modern computational sense. It is a symbolic simulation of a distributed proto-cognitive society. But the trajectory is clear:
+
+```text id="trajectory"
+Temple archive intelligence
+→ embodied tool intelligence
+→ standardized procedural intelligence
+→ portable memory objects
+→ distributed civilizational cognition
+```
+
+Cycle 3 advances the system because standardized artifacts allow knowledge to travel **without the original maker**.
+
+---
+
+## 15. Final Cycle Verdict
+
+```yaml id="cycle3_verdict"
+FINAL_CYCLE_VERDICT:
+  cycle: 3
+  title: The Workshop Escapes the Temple
+  status: SUCCESS_WITH_INSTITUTIONAL_FRICTION
+  breakthrough_class: standardization_phase_transition
+  primary_artifact: CYL-MEASURE-0001
+  secondary_artifact: HUB-SET-001
+  stability_band: AMBER_GREEN
+  collapse_risk: 0.29
+  continuation_recommended: true
+
+  key_discovery: "Repeatability is memory made physical."
+  strongest_gain: procedural_memory_externalization
+  strongest_risk: temple_merchant_capture_of_standards
+  next_best_cycle_title: "The First Counterfeit Truth"
+```
+
+## Final Analytical Judgment
+
+Cycle 2 proved that matter can compute geometry.
+
+Cycle 3 proves something bigger:
+
+> **Matter can remember procedure.**
+
+A scribal diagram says what ought to be.
+A lathe-made hub shows what can be repeated.
+A measuring cylinder becomes a portable treaty between hand, market, temple, and archive.
+
+This is the workshop escaping the temple: not through rebellion, but through fit. Through repeatability. Through the scandal of twelve objects agreeing with each other better than twelve authorities can.
+
+The civilization has crossed a new threshold.
+
+**Run verdict:** `CONTINUE — STANDARDIZATION ENGINE ACTIVE.`
+
+---
+---
+---
 
