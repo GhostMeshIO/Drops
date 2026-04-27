@@ -1,0 +1,59 @@
+{
+  "simulation_3": {
+    "name": "Entropy-Led Governance in Multi-Agent Society",
+    "n_agents": 100,
+    "steps": 3000,
+    "governance_modes": [
+      "entropy_led",
+      "random",
+      "consensus"
+    ],
+    "mode_metrics": {
+      "entropy_led": {
+        "mean_coherence": 0.517,
+        "std_coherence": 0.0093,
+        "final_coherence": 0.5147,
+        "mean_gini": 0.1542,
+        "final_gini": 0.2174,
+        "mean_entropy": 3.436,
+        "std_entropy": 0.0178,
+        "crisis_recovery_events": 5,
+        "mean_recovery_ratio": 0.9775
+      },
+      "random": {
+        "mean_coherence": 0.5157,
+        "std_coherence": 0.0096,
+        "final_coherence": 0.5135,
+        "mean_gini": 0.6254,
+        "final_gini": 0.6395,
+        "mean_entropy": 3.4337,
+        "std_entropy": 0.0182,
+        "crisis_recovery_events": 5,
+        "mean_recovery_ratio": 1.005
+      },
+      "consensus": {
+        "mean_coherence": 0.5159,
+        "std_coherence": 0.0091,
+        "final_coherence": 0.5132,
+        "mean_gini": 0.0283,
+        "final_gini": 0.0289,
+        "mean_entropy": 3.4348,
+        "std_entropy": 0.0166,
+        "crisis_recovery_events": 5,
+        "mean_recovery_ratio": 1.0053
+      }
+    },
+    "crisis_events": 5,
+    "predictions": [
+      "P9: Entropy-led governance maintains coherence > 0.7 during stable periods (vs. < 0.5 for random)",
+      "P10: Post-crisis recovery ratio: entropy_led > consensus > random (statistically significant, p < 0.01)",
+      "P11: Gini coefficient remains below 0.3 for entropy-led governance (vs. > 0.4 for random)",
+      "P12: Consensus governance shows highest short-term stability but lowest long-term adaptability"
+    ],
+    "observables": [
+      "Human societies: comparing welfare-state (entropy-led) vs. laissez-faire (random) vs. democratic (consensus) crisis responses",
+      "Multi-agent RL: comparing centralised vs. decentralised vs. voting-based reward allocation under environment perturbation",
+      "Organisational design: R&D investment strategies (exploration-heavy vs. exploitation-heavy vs. committee-based)"
+    ]
+  }
+}
